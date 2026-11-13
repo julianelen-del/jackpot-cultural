@@ -1,0 +1,10 @@
+{
+  "name": "jackpot-cultural",
+  "version": "1.0.0",
+  "scripts": {
+    "update": "node scripts/fetch-data.js"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
