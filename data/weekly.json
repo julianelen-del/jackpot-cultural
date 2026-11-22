@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T00:25:54.891Z",
-  "weekNumber": 46,
+  "updatedAt": "2026-11-22T00:29:18.027Z",
+  "weekNumber": 47,
   "countries": {
     "AR": {
       "code": "AR",
@@ -16,54 +16,66 @@
       "radioName": "Radio Nacional Folklórica",
       "articles": [
         {
-          "title": "Festival de Cine de Mar del Plata: una película filmada en secreto bajo el régimen iraní se llevó el premio mayor",
-          "link": "https://www.infobae.com/cultura/2026/11/14/festival-de-cine-de-mar-del-plata-una-pelicula-filmada-en-secreto-bajo-el-regimen-irani-se-llevo-el-premio-mayor/",
-          "desc": "'The Night Arezou Disappeared', de Arian Vazirdaftari, ganó la Competencia Internacional; 'El Pez que Fuma' y 'Cebar, Frenar, Llorar' se impusieron en las competencias latinoamericana y argentina, en el cierre de la 41° edición de la competencia que cerró con una asistencia total..."
+          "title": "Las letras manuscritas de 'Masters of War' y 'Subterranean Homesick Blues' de Bob Dylan salen a subasta y podrían llegar al millón de dólares",
+          "link": "https://www.infobae.com/cultura/2026/11/21/las-letras-manuscritas-de-masters-of-war-y-subterranean-homesick-blues-de-bob-dylan-salen-a-subasta-y-podrian-llegar-al-millon-de-dolares/",
+          "desc": "Sotheby's pondrá a la venta, en la primera semana de diciembre, los borradores con tachaduras y correcciones de dos clásicos del premio Nobel de Literatura, cuando asombró al mundo con sus canciones..."
         },
         {
-          "title": "Houellebecq otra vez en el centro de una polémica:  la justicia francesa lo investiga por incitar al odio contra los musulmanes",
-          "link": "https://www.infobae.com/cultura/2026/11/14/houellebecq-otra-vez-en-el-centro-de-una-polemica-la-justicia-francesa-lo-investiga-por-incitar-al-odio-contra-los-musulmanes/",
-          "desc": "La fiscalía de Nanterre abrió una causa contra el disruptivo escritor, por declaraciones en las que calificó a la comunidad islámica como “una amenaza para la seguridad del país”..."
+          "title": "Justice, los Djs de CircoLoco y el Club Space de Miami: la música electrónica es una protagonista más de ‘Grand Theft Auto VI’",
+          "link": "https://www.infobae.com/cultura/2026/11/21/justice-los-djs-de-circoloco-y-el-club-space-de-miami-la-musica-electronica-es-una-protagonista-mas-de-grand-theft-auto-vi/",
+          "desc": "En la nueva versión del videojuego más famoso del mundo, hay temas inéditos del dúo francés, una radio de la franquicia de fiestas bailables y una detallada recreación del icónico local nocturno de Florida..."
         },
         {
-          "title": "Una bacteria de azúcar japonesa apareció sobre 'La ronda de noche' de Rembrandt: científicos revelan el universo microbiano que habita en la famosa obra",
-          "link": "https://www.infobae.com/cultura/2026/11/14/una-bacteria-de-azucar-japonesa-aparecio-sobre-la-ronda-de-noche-de-rembrandt-cientificos-revelan-el-universo-microbiano-que-habita-en-la-famosa-obra/",
-          "desc": "El Rijksmuseum y el laboratorio Micropia de Ámsterdam cultivaron colonias de microbios extraídos del lienzo más icónico de la pintura barroca, en el marco del mayor proyecto de restauración jamás realizado..."
+          "title": "Sorpresa en el ámbito cultural porteño: Julio Bocca renunció a la dirección artística del Ballet Estable del Teatro Colón",
+          "link": "https://www.infobae.com/cultura/2026/11/21/sorpresa-en-el-ambito-cultural-porteno-julio-bocca-renuncia-a-la-direccion-artistica-del-ballet-estable-del-teatro-colon/",
+          "desc": "El exbailarín, que nunca ocultó su incomodidad con las estructuras sindicales del coliseo, comunicó su partida en un video informal grabado en la calle; Hernán Cornejo asumirá el cargo en agosto de 2027..."
         }
       ],
       "songs": [
         {
-          "title": "UP",
-          "artist": "ATEEZ",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/170x170bb.png",
-          "link": "https://music.apple.com/ar/album/up/6819932396?i=6819932404&uo=2"
+          "title": "Breakaway",
+          "artist": "Kelly Clarkson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/7e/c5/e37ec5d7-725b-695c-333c-ee0deb5adcc6/dj.mveioodu.jpg/170x170bb.png",
+          "link": "https://music.apple.com/ar/album/breakaway/275765354?i=275765378&uo=2"
         },
         {
-          "title": "Call Me",
-          "artist": "Blondie",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/72/73/8f/72738f62-d8a1-f1f9-e84d-244ff697d1db/13UABIM56926.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/ar/album/call-me/716231242?i=716231650&uo=2"
+          "title": "Viva La Vida",
+          "artist": "Coldplay",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/170x170bb.png",
+          "link": "https://music.apple.com/ar/album/viva-la-vida/1122773394?i=1122773680&uo=2"
         },
         {
-          "title": "Living Room Dance",
-          "artist": "Pablo Hego",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/23/0a0d231b-5608-3e98-c5ef-e85e16f7205b/artwork.jpg/170x170bb.png",
-          "link": "https://music.apple.com/ar/album/living-room-dance/6770772848?i=6770772849&uo=2"
-        },
-        {
-          "title": "Formula 1 Theme",
-          "artist": "Brian Tyler",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/e3/98/6be39834-891a-01ec-b519-b39482b0c71c/859725865322_cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/ar/album/formula-1-theme/1361376573?i=1361376912&uo=2"
-        },
-        {
-          "title": "Count On Me",
+          "title": "Just the Way You Are",
           "artist": "Bruno Mars",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/170x170bb.png",
-          "link": "https://music.apple.com/ar/album/count-on-me/576670451?i=576670467&uo=2"
+          "link": "https://music.apple.com/ar/album/just-the-way-you-are/576670451?i=576670459&uo=2"
+        },
+        {
+          "title": "With or Without You",
+          "artist": "U2",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/23/a7/46/23a746ab-5839-c17d-1513-291c81ce1649/17UMGIM84937.rgb.jpg/170x170bb.png",
+          "link": "https://music.apple.com/ar/album/with-or-without-you/1440881975?i=1440881979&uo=2"
+        },
+        {
+          "title": "The Scientist",
+          "artist": "Coldplay",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/170x170bb.png",
+          "link": "https://music.apple.com/ar/album/the-scientist/1122775993?i=1122776155&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "La odisea",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6d/4f/aa/6d4faa20-6501-93dc-5a68-472081d53142/tns.tbqsfiey.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/ar/movie/la-odisea/id6822007631?uo=2"
+        },
+        {
+          "title": "Los Juegos del Hambre \"Versión en Español\"",
+          "artist": "Gary Ross",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/b8/fc/b6/b8fcb60a-007b-12b2-716d-847955c23f6d/TEF-9450-D53935-V001-TheHungerGames_Argentina_iTunes_Poster.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/ar/movie/los-juegos-del-hambre-versi%C3%B3n-en-espa%C3%B1ol/id916419059?uo=2"
+        },
         {
           "title": "El corazón de la bestia",
           "artist": "David Ayer",
@@ -71,28 +83,16 @@
           "link": "https://itunes.apple.com/ar/movie/el-coraz%C3%B3n-de-la-bestia/id6812460052?uo=2"
         },
         {
-          "title": "Spider-man: Un nuevo día",
-          "artist": "Destin Daniel Cretton",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/83/89/2f/83892f4d-a5c0-1c4d-cae5-9f61212c4df8/DP_10546099_SpiderManBrandNewDay_2026_IT_AM_2000x3000_Poster_MEX.png/115x170bb.png",
-          "link": "https://itunes.apple.com/ar/movie/spider-man-un-nuevo-d%C3%ADa/id6793590242?uo=2"
+          "title": "Los juegos del hambre: En llamas",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c6/7a/53/c67a5377-951e-8288-d3e0-7562ea0e71f6/iTunes_HungerGames_CatchingFire_2000x3000_LAS.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/ar/movie/los-juegos-del-hambre-en-llamas/id808328030?uo=2"
         },
         {
-          "title": "Obsesión",
-          "artist": "Curry Barker",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ac/ae/33/acae3390-9373-956c-9d93-e2276cf0fe5c/OBS_Digital_Keyart_APP_2000x3000_LATAM_LAS_XYi.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/ar/movie/obsesi%C3%B3n/id1895899231?uo=2"
-        },
-        {
-          "title": "Resident Evil: noche cero",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2b/6b/5e/2b6b5eaf-2534-c67c-5aa9-a770b4f1813b/DP_10622483_ResidentEvil_2026_IT_AM_2000x3000_Poster_MEX.png/115x170bb.png",
-          "link": "https://itunes.apple.com/ar/movie/resident-evil-noche-cero/id6807575287?uo=2"
-        },
-        {
-          "title": "Los Juegos del Hambre \"Versión en Español\"",
-          "artist": "Gary Ross",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/b8/fc/b6/b8fcb60a-007b-12b2-716d-847955c23f6d/TEF-9450-D53935-V001-TheHungerGames_Argentina_iTunes_Poster.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/ar/movie/los-juegos-del-hambre-versi%C3%B3n-en-espa%C3%B1ol/id916419059?uo=2"
+          "title": "Los Juegos del Hambre: La Balada de los Pájaros Cantores y las Serpientes",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e0/96/89/e096899d-1624-f998-67d8-fde70aa72dc1/THG_BSS_iTunes_Transactional-Movies-Cover_LAS.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/ar/movie/los-juegos-del-hambre-la-balada-de-los-p%C3%A1jaros/id1715087295?uo=2"
         }
       ],
       "books": [
@@ -145,19 +145,19 @@
       "radioName": "Radio Educación 1060 AM",
       "articles": [
         {
-          "title": "Destinarán 40.2 mdp a financiar un conservatorio de música en Tultepec   ",
-          "link": "https://www.jornada.com.mx/2026/11/14/cultura/a05n1cul?partner=rss",
-          "desc": "Con 40.2 millones de pesos obtenidos de la subasta de motocicletas de colección decomisadas al ex atleta olímpico canadiense Ryan Wedding, detenido en México en enero pasado, acusado de narcotráfico en Estados Unidos, el Instituto para Devolver al Pueblo lo Robado (Indep) financi..."
+          "title": "Cultura UNAM dio a conocer a nuevos directivos; Guadalupe Alonso, a la televisora universitaria   ",
+          "link": "https://www.jornada.com.mx/2026/11/21/cultura/a05n2cul?partner=rss",
+          "desc": "El rector de la Universidad Nacional Autónoma de México (UNAM), Leonardo Lomelí Vanegas, en acuerdo con la coordinadora de Difusión Cultural, Rosa Beltrán, designó el jueves pasado a la productora Guadalupe Alonso titular de la Dirección General de Televisión Universitaria (Tv UN..."
         },
         {
-          "title": "Juan Arturo Brennan: Sin brújula, sin proyecto   ",
-          "link": "https://www.jornada.com.mx/2026/11/14/cultura/a04a1cul?partner=rss",
-          "desc": "Creo firmemente que los mejores libros de historia son aquellos que, narrando hechos ocurridos en tierras lejanas y tiempos remotos, ofrecen a la vez un correlato puntual y urgente con lugares y momentos más cercanos, más actuales, el aquí y el ahora. Tal es el caso de Brújula mo..."
+          "title": "Por primera vez, el Inehrm otorga entre sus galardones el Premio Adolfo Gilly    ",
+          "link": "https://www.jornada.com.mx/2026/11/21/cultura/a05n1cul?partner=rss",
+          "desc": "Efectuada en el contexto del 116 aniversario del inicio de la Revolución Mexicana, la entrega de los Premios Instituto Nacional de Estudios Históricos de las Revoluciones de México (Inehrm) 2026 tuvo especial significado para esa institución, no sólo por llevarse a cabo en medio ..."
         },
         {
-          "title": "Al ritmo de chachachá, una treintena de niños dio la bienvenida a la Filij   ",
-          "link": "https://www.jornada.com.mx/2026/11/14/cultura/a04n1cul?partner=rss",
-          "desc": "Entre el azoro, la ilusión y la alegría de miles de niñas y niños, ayer se inauguró la 44 Feria Internacional del Libro Infantil y Juvenil (Filij), que regresa al Centro Nacional de las Artes (Cenart), después de seis años, ya que las ediciones de 2020 y 2021 fueron virtuales, y ..."
+          "title": "Adriana Castillo Román*: Arnaldo Coen: el artista que hizo visible lo invisible   ",
+          "link": "https://www.jornada.com.mx/2026/11/21/cultura/a04a1cul?partner=rss",
+          "desc": "La muerte de Arnaldo Coen marca el fin de una trayectoria singular en las artes visuales de México. Explorador incansable de las posibilidades creativas, fue uno de los protagonistas de la renovación artística mexicana del siglo XX. Su obra dialogó con la música, la literatura, l..."
         }
       ],
       "songs": [
@@ -168,48 +168,42 @@
           "link": "https://music.apple.com/mx/album/bby-wow/6796864741?i=6796864754&uo=2"
         },
         {
-          "title": "BbY WOW (John Summit Remix) [feat. Judeline & rusowsky]",
-          "artist": "KAROL G & John Summit",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/8d/be/b48dbe2e-7668-eeaa-a5b2-257a9c8e33b9/823375587323_Cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/mx/album/bby-wow-john-summit-remix-feat-judeline-rusowsky/6831822973?i=6831823102&uo=2"
-        },
-        {
-          "title": "Así Fue (Apple Music Sessions)",
-          "artist": "Ed Maverick",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a2/df/11a2df76-4bc1-3fbc-2ceb-760ffd528c49/26UM1IM44880.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/mx/album/as%C3%AD-fue-apple-music-sessions/6833728350?i=6833728368&uo=2"
-        },
-        {
-          "title": "Bonito, Bonito",
-          "artist": "Thiago Navarro Music",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/47/fc/7747fc1e-8167-5de6-b8e7-cf9b1038aea3/882436183713_cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/mx/album/bonito-bonito/6810810194?i=6810810195&uo=2"
+          "title": "El Ojo Alegre",
+          "artist": "Lucero & Majo Aguilar",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/6b/fc/db6bfc5f-d011-439a-6d60-daecfe14bc42/711641082644.jpg/170x170bb.png",
+          "link": "https://music.apple.com/mx/album/el-ojo-alegre/6830373730?i=6830373870&uo=2"
         },
         {
           "title": "Flower In A Hurricane [From GTAVI: Original Score]",
           "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/6d/08/a06d082b-9322-3ede-f6aa-fe3e7b9b386f/5056556188568_cover.jpg/170x170bb.png",
           "link": "https://music.apple.com/mx/album/flower-in-a-hurricane-from-gtavi-original-score/6827656134?i=6827658231&uo=2"
+        },
+        {
+          "title": "ORIGAMI (&TEAM)",
+          "artist": "SANTOS BRAVOS & &TEAM",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/df/e9/08dfe9ad-6830-1c4a-3ea3-d8f0d7b59a5b/823375558811_Cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/mx/album/origami-team/6827789110?i=6827789113&uo=2"
+        },
+        {
+          "title": "Bonito, Bonito",
+          "artist": "Thiago Navarro Music",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/47/fc/7747fc1e-8167-5de6-b8e7-cf9b1038aea3/882436183713_cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/mx/album/bonito-bonito/6810810194?i=6810810195&uo=2"
         }
       ],
       "movies": [
         {
-          "title": "El corazón de la bestia",
-          "artist": "David Ayer",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/27/10/b1271002-3bc3-d83d-8aae-46a60e89688f/Heart_of_the_Beast_US_2000x3000.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/mx/movie/el-coraz%C3%B3n-de-la-bestia/id6812460052?uo=2"
+          "title": "La odisea",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6d/4f/aa/6d4faa20-6501-93dc-5a68-472081d53142/tns.tbqsfiey.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/mx/movie/la-odisea/id6822007631?uo=2"
         },
         {
-          "title": "Spider-man: Un nuevo día",
-          "artist": "Destin Daniel Cretton",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/83/89/2f/83892f4d-a5c0-1c4d-cae5-9f61212c4df8/DP_10546099_SpiderManBrandNewDay_2026_IT_AM_2000x3000_Poster_MEX.png/115x170bb.png",
-          "link": "https://itunes.apple.com/mx/movie/spider-man-un-nuevo-d%C3%ADa/id6793590242?uo=2"
-        },
-        {
-          "title": "Resident Evil: noche cero",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2b/6b/5e/2b6b5eaf-2534-c67c-5aa9-a770b4f1813b/DP_10622483_ResidentEvil_2026_IT_AM_2000x3000_Poster_MEX.png/115x170bb.png",
-          "link": "https://itunes.apple.com/mx/movie/resident-evil-noche-cero/id6807575287?uo=2"
+          "title": "Los Juegos del Hambre \"Versión en Español\"",
+          "artist": "Gary Ross",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/b8/fc/b6/b8fcb60a-007b-12b2-716d-847955c23f6d/TEF-9450-D53935-V001-TheHungerGames_Argentina_iTunes_Poster.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/mx/movie/los-juegos-del-hambre-versi%C3%B3n-en-espa%C3%B1ol/id916419059?uo=2"
         },
         {
           "title": "Los juegos del hambre: En llamas",
@@ -218,10 +212,16 @@
           "link": "https://itunes.apple.com/mx/movie/los-juegos-del-hambre-en-llamas/id808328030?uo=2"
         },
         {
-          "title": "Los Juegos del Hambre \"Versión en Español\"",
-          "artist": "Gary Ross",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/b8/fc/b6/b8fcb60a-007b-12b2-716d-847955c23f6d/TEF-9450-D53935-V001-TheHungerGames_Argentina_iTunes_Poster.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/mx/movie/los-juegos-del-hambre-versi%C3%B3n-en-espa%C3%B1ol/id916419059?uo=2"
+          "title": "Spider-man: Un nuevo día",
+          "artist": "Destin Daniel Cretton",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/83/89/2f/83892f4d-a5c0-1c4d-cae5-9f61212c4df8/DP_10546099_SpiderManBrandNewDay_2026_IT_AM_2000x3000_Poster_MEX.png/115x170bb.png",
+          "link": "https://itunes.apple.com/mx/movie/spider-man-un-nuevo-d%C3%ADa/id6793590242?uo=2"
+        },
+        {
+          "title": "El corazón de la bestia",
+          "artist": "David Ayer",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/27/10/b1271002-3bc3-d83d-8aae-46a60e89688f/Heart_of_the_Beast_US_2000x3000.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/mx/movie/el-coraz%C3%B3n-de-la-bestia/id6812460052?uo=2"
         }
       ],
       "books": [
@@ -274,27 +274,27 @@
       "radioName": "WNYC 93.9 FM",
       "articles": [
         {
-          "title": "'Wait Wait' for November 14, 2026: Live in Normal, Illinois with Brendan Hunt!",
-          "link": "https://www.npr.org/2026/11/14/g-s1-153673/wait-wait-for-november-14-2026-live-in-normal-illinois-with-brendan-hunt",
-          "desc": "This week, Wait Wait is live in Normal, Illinois with host Peter Sagal, special guest Brendan Hunt and panelists Adam Burke, Shane O'Neill, and Paula Poundstone..."
+          "title": "Paolo Bulgari, who turned a family jewelry business into a global brand, dies at 89",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154971/bulgari-jewelry-obit",
+          "desc": "The Italian jewelry magnate led the Bulgari brand through decades of international expansion, building its reputation for bold gemstones, distinctive designs and Italian glamour...."
         },
         {
-          "title": "M. John Harrison makes history as first sci-fi author to win the Booker Prize",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6037700/m-john-harrison-makes-history-as-first-sci-fi-author-to-win-the-booker-prize",
-          "desc": "M. John Harrison has become the first science fiction author to win the prestigious Booker Prize, for \"The End of Everything,\" in a milestone for the genre...."
+          "title": "Bayer reaches Roundup settlement that could cost the company billions",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+          "desc": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide...."
         },
         {
-          "title": "Hayley Atwell on her role in a new production of 'Much Ado About Nothing' on Broadway",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-5855018/hayley-atwell-on-her-role-in-a-new-production-of-much-ado-about-nothing-on-broadway",
-          "desc": "NPR's Scott Simon speaks with Hayley Atwell, who stars as Beatrice in a new production of William Shakespeare's \"Much Ado About Nothing\" on Broadway...."
+          "title": "'Wait Wait' for November 21, 2026: With Not My Job guest William Jackson Harper",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154763/wait-wait-for-november-21-2026-with-not-my-job-guest-william-jackson-harper",
+          "desc": "This week, Wait Wait is live in Chicago with host Peter Sagal, special guest William Jackson Harper and panelists Tom Bodett, Luke Burbank, and Tig Notaro..."
         }
       ],
       "songs": [
         {
-          "title": "Torn (feat. Dolly Parton)",
-          "artist": "U2",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/us/album/torn-feat-dolly-parton/6812412381?i=6812412865&uo=2"
+          "title": "Just A Woman",
+          "artist": "Lainey Wilson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/13/5d/92135d81-90ce-eed6-76ba-c9cc2d35f613/4099964306293.jpg/170x170bb.png",
+          "link": "https://music.apple.com/us/album/just-a-woman/6831322525?i=6831322526&uo=2"
         },
         {
           "title": "Choosin' Texas",
@@ -303,36 +303,36 @@
           "link": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150&uo=2"
         },
         {
-          "title": "Babydoll",
-          "artist": "Jamie Miller",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/us/album/babydoll/6794168372?i=6794168373&uo=2"
+          "title": "Revival",
+          "artist": "The Red Clay Strays",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/7a/e4/7a7ae4aa-c96a-bc93-5d04-7c03aa5f35f5/196874013465.jpg/170x170bb.png",
+          "link": "https://music.apple.com/us/album/revival/1893402542?i=1893402858&uo=2"
         },
         {
-          "title": "Fairytale of New York",
-          "artist": "Hozier & Jessie Buckley",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/47/4b/1b474b56-a830-4d80-a3ee-61291964567c/8721416643453.png/170x170bb.png",
-          "link": "https://music.apple.com/us/album/fairytale-of-new-york/6815087143?i=6815087144&uo=2"
+          "title": "I’m a Song (feat. Chris Stapleton)",
+          "artist": "Stephen Wilson Jr.",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/f4/19/9ff41976-2fb2-8e00-9fe8-8f3f58129a19/26UM1IM33082.rgb.jpg/170x170bb.png",
+          "link": "https://music.apple.com/us/album/im-a-song-feat-chris-stapleton/6825916810?i=6825916828&uo=2"
         },
         {
-          "title": "Stop The Wedding!",
-          "artist": "Ashe",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/170x170bb.png",
-          "link": "https://music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687&uo=2"
+          "title": "Flower In A Hurricane",
+          "artist": "Justice, SZA, King Gizzard & The Lizard Wizard & Tame Impala",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/170x170bb.png",
+          "link": "https://music.apple.com/us/album/flower-in-a-hurricane/6812476961?i=6812477273&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "The Odyssey (2026)",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d8/84/43/d88443cf-b9c1-ca18-9ffb-4283bd423f3d/UNI_ODYSSEY_THE_TH_ITUNES_EPO_ARTWORK_WW_ARTWORK_EN_2000x3000_5LMHTJ00000933.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/us/movie/the-odyssey-2026/id6821732138?uo=2"
+        },
         {
           "title": "Heart of the Beast",
           "artist": "David Ayer",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/66/4c/c9/664cc989-15d8-c0b0-f272-848ce2ea11af/Heart_of_the_Beast_EN_2000x3000.jpg/115x170bb.png",
           "link": "https://itunes.apple.com/us/movie/heart-of-the-beast/id6808370288?uo=2"
-        },
-        {
-          "title": "Resident Evil (2026)",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/us/movie/resident-evil-2026/id6807575287?uo=2"
         },
         {
           "title": "Spider-Man: Brand New Day",
@@ -341,16 +341,16 @@
           "link": "https://itunes.apple.com/us/movie/spider-man-brand-new-day/id6793590242?uo=2"
         },
         {
-          "title": "Mutiny",
-          "artist": "Jean-François Richet",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/8e/c2/96/8ec29688-cdec-cf19-72eb-bc4506c16feb/Mutiny_iTunesStore_Movies_Cvr.png/115x170bb.png",
-          "link": "https://itunes.apple.com/us/movie/mutiny/id6801608783?uo=2"
+          "title": "Verity",
+          "artist": "Michael Showalter",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/us/movie/verity/id6808034868?uo=2"
         },
         {
-          "title": "Other Mommy",
-          "artist": "Rob Savage",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/78/e8/73/78e873a6-5e2b-7eb5-608e-7b429b668a49/OtherMommy_LSR_2000x3000.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/us/movie/other-mommy/id6817052242?uo=2"
+          "title": "Resident Evil (2026)",
+          "artist": "Zach Cregger",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/us/movie/resident-evil-2026/id6807575287?uo=2"
         }
       ],
       "books": [
@@ -403,71 +403,65 @@
       "radioName": "Rádio USP FM",
       "articles": [
         {
-          "title": "'League of Legends: New Dawn': Riot anuncia aguardada reformulação do game para 2027",
-          "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/14/league-of-legends-new-dawn-riot-aguardada-reformulacao-do-game-para-2027.ghtml",
-          "desc": "'League of Legends: New Dawn': Riot anuncia aguardada reformulação do game para 2027\n\"League of Legends: New Dawn\" será o nome da aguardada reformulação do moba da Riot, prometida para 2027. O anúncio foi feito pela desenvolvedora neste sábado (14), durante a final do seu mundial..."
+          "title": "Roberto Carlos e Maria Bethânia gravam clipe em estúdio para especial do cantor",
+          "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/21/roberto-carlos-e-maria-bethania-gravam-clipe-em-estudio-para-exibicao-no-especial-do-cantor.ghtml",
+          "desc": "Roberto Carlos e Maria Bethânia se encontram no Estúdio Amigo, do cantor, para gravação de clipe que será exibido no programa de fim de ano do artista na TV Globo\nReprodução / Instagram oficial Roberto Carlos\n♫ NOTÍCIA\n♬ Roberto Carlos e Maria Bethânia trabalharam no feriado da C..."
         },
         {
-          "title": "Bandas de rock fazem show improvisado durante paralização de voos nos Estados Unidos",
-          "link": "https://g1.globo.com/pop-arte/noticia/2026/11/14/bandas-de-rock-fazem-show-improvisado-durante-paralizacao-de-voos-nos-estados-unidos.ghtml",
-          "desc": "Bandas de rock fazem show improvisado durante paralisação de voos nos EUA\nNo meio do caos aéreo que atingiu os Estados Unidos nesta sexta-feira (13), a música foi responsável por deixar o momento de angústia e dúvidas um pouco mais leve para os passageiros de um voo da companhia ..."
+          "title": "Sobre a arte da capa de Alaíde Costa...",
+          "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/21/sobre-a-arte-da-capa-de-alaide-costa.ghtml",
+          "desc": "Capa do álbum 'Meu vício na dor de amar demais', de Alaíde Costa\nFábio Audi / Divulgação\n♫ PRIMEIRA PESSOA DO SINGULAR\n♬ “É a capa do ano!”. A sentença foi proferida pelo jornalista e pesquisador musical Rodrigo Nogueira ao ver exposta aqui nesta coluna no g1 a capa de “Meu vício..."
         },
         {
-          "title": "Show de Nando Reis no Rio tem resenha com Os Garotin, o peso do rock, baladas apaixonantes e 'presença' de Cássia Eller",
-          "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/14/show-de-nando-reis-no-rio-tem-resenha-com-os-garotin-o-peso-do-rock-baladas-apaixonantes-e-hits-de-cassia-eller.ghtml",
-          "desc": "Nando Reis apresenta o show 'Pra você guardei o amor' na casa Qualistage\nRodrigo Goffredo\n♫ CRÍTICA DE SHOW\nTítulo: “Pra você guardei o amor”\nArtista: Nando Reis\nData e local: 13 de novembro de 2026 no Qualistage (Rio de Janeiro, RJ)\nCotação: ★ ★ ★ ★ \n♬ Anunciada por Nando Reis e..."
+          "title": "Nasce filho de Tati Machado; apresentadora publicou primeira foto de Rafael nas redes sociais",
+          "link": "https://g1.globo.com/pop-arte/noticia/2026/11/21/nasce-filho-de-tati-machado.ghtml",
+          "desc": "Nasce filho de Tati Machado; apresentadora publica 1ª foto do filho nas redes socias\nO filho da apresentadora Tati Machado nasceu na última terça-feira (17) . O anúncio foi feito só na manhã deste sábado (21) nas redes sociais.\n\"Nosso primeiro encontro. Bem-vindo, Rafael\", escrev..."
         }
       ],
       "songs": [
         {
-          "title": "UP",
-          "artist": "ATEEZ",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/170x170bb.png",
-          "link": "https://music.apple.com/br/album/up/6819932396?i=6819932404&uo=2"
+          "title": "Flower In A Hurricane",
+          "artist": "Justice, SZA, King Gizzard & The Lizard Wizard & Tame Impala",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/170x170bb.png",
+          "link": "https://music.apple.com/br/album/flower-in-a-hurricane/6812476961?i=6812477273&uo=2"
         },
         {
-          "title": "Sou + Você",
-          "artist": "Racionais MC's",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3f/ca/fd/3fcafdad-07c1-c752-7878-39dfd32b3b28/0.jpg/170x170bb.png",
-          "link": "https://music.apple.com/br/album/sou-voc%C3%AA/1198317040?i=1198317073&uo=2"
+          "title": "I Want You",
+          "artist": "ENHYPEN",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/3d/d5/263dd5d0-a22e-8f2c-a383-766220d450e7/823375532705_Cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/br/album/i-want-you/6824959794?i=6824959795&uo=2"
         },
         {
-          "title": "Pós (Ao Vivo)",
-          "artist": "Felipe e Rodrigo",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/ac/80/55ac8010-26ff-2719-6218-e5419e64b127/1200220202775.jpg/170x170bb.png",
-          "link": "https://music.apple.com/br/album/p%C3%B3s-ao-vivo/6815826568?i=6815826572&uo=2"
+          "title": "Unlearn",
+          "artist": "Kehlani",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/ea/6c/daea6c92-0990-d691-3283-6f019c4c8529/075679584670.jpg/170x170bb.png",
+          "link": "https://music.apple.com/br/album/unlearn/1885055310?i=1885055434&uo=2"
         },
         {
-          "title": "Time",
-          "artist": "Pink Floyd",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/76/b0/3e76b0e3-762b-2286-a019-8afb19cee541/886445635829.jpg/170x170bb.png",
-          "link": "https://music.apple.com/br/album/time/1065973699?i=1065973706&uo=2"
+          "title": "Breakaway",
+          "artist": "Kelly Clarkson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/7e/c5/e37ec5d7-725b-695c-333c-ee0deb5adcc6/dj.mveioodu.jpg/170x170bb.png",
+          "link": "https://music.apple.com/br/album/breakaway/275765354?i=275765378&uo=2"
         },
         {
-          "title": "Into the Sun",
-          "artist": "BTS",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/a2/b4/e0a2b443-7969-b57a-a591-cb6172c10aa7/198704943959_Cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/br/album/into-the-sun/1868481904?i=1868482091&uo=2"
+          "title": "Sweet Like Candy",
+          "artist": "Camila Cabello",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/170x170bb.png",
+          "link": "https://music.apple.com/br/album/sweet-like-candy/6812476961?i=6812477314&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "A Odisseia",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f7/e4/df/f7e4df09-d1b9-614b-4c27-d82b4baca413/tns.jhntsmzw.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/br/movie/a-odisseia/id6822007631?uo=2"
+        },
         {
           "title": "Coração Selvagem",
           "artist": "David Ayer",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/2c/69/70/2c6970ed-1238-f879-d804-e6b73d93172f/Heart_of_the_Beast_BR_2000x3000.jpg/115x170bb.png",
           "link": "https://itunes.apple.com/br/movie/cora%C3%A7%C3%A3o-selvagem/id6812460052?uo=2"
-        },
-        {
-          "title": "Resident Evil (2026)",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/br/movie/resident-evil-2026/id6807575287?uo=2"
-        },
-        {
-          "title": "Homem-Aranha: Um Novo Dia",
-          "artist": "Destin Daniel Cretton",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/5f/e0/5d/5fe05d1d-6877-7942-c8c5-1881adf9a815/DP_10558267_SpiderManBrandNewDay_2026_IT_AM_2000x3000_Poster_Brazil.png/115x170bb.png",
-          "link": "https://itunes.apple.com/br/movie/homem-aranha-um-novo-dia/id6793590242?uo=2"
         },
         {
           "title": "Jogos Vorazes a Cantiga dos Pássaros e das Serpentes",
@@ -476,10 +470,16 @@
           "link": "https://itunes.apple.com/br/movie/jogos-vorazes-a-cantiga-dos-p%C3%A1ssaros-e-das-serpentes/id1715087295?uo=2"
         },
         {
-          "title": "Jogos Vorazes \"Versão em Português\"",
-          "artist": "Gary Ross",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/97/27/22/97272283-ffa4-2d25-b7e3-be55138a4026/TEF-9450-D54365-V001-TheHungerGames_Brazil_iTunes_Poster.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/br/movie/jogos-vorazes-vers%C3%A3o-em-portugu%C3%AAs/id916398575?uo=2"
+          "title": "Verity",
+          "artist": "Michael Showalter",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/br/movie/verity/id6808034868?uo=2"
+        },
+        {
+          "title": "Homem-Aranha: Um Novo Dia",
+          "artist": "Destin Daniel Cretton",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/5f/e0/5d/5fe05d1d-6877-7942-c8c5-1881adf9a815/DP_10558267_SpiderManBrandNewDay_2026_IT_AM_2000x3000_Poster_Brazil.png/115x170bb.png",
+          "link": "https://itunes.apple.com/br/movie/homem-aranha-um-novo-dia/id6793590242?uo=2"
         }
       ],
       "books": [
@@ -539,54 +539,42 @@
       ],
       "songs": [
         {
-          "title": "UP",
-          "artist": "ATEEZ",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/170x170bb.png",
-          "link": "https://music.apple.com/co/album/up/6819932396?i=6819932404&uo=2"
+          "title": "Breakaway",
+          "artist": "Kelly Clarkson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/7e/c5/e37ec5d7-725b-695c-333c-ee0deb5adcc6/dj.mveioodu.jpg/170x170bb.png",
+          "link": "https://music.apple.com/co/album/breakaway/275765354?i=275765378&uo=2"
         },
         {
-          "title": "FAITH",
-          "artist": "ATEEZ",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/170x170bb.png",
-          "link": "https://music.apple.com/co/album/faith/6819932396?i=6819932406&uo=2"
+          "title": "O Wa",
+          "artist": "Kapo",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/ab/f9/bcabf9a4-bd5c-6244-5cef-5dfb2dcc0569/196874938072.jpg/170x170bb.png",
+          "link": "https://music.apple.com/co/album/o-wa/6830960072?i=6830960075&uo=2"
         },
         {
-          "title": "ANEMIA",
-          "artist": "ATEEZ",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/170x170bb.png",
-          "link": "https://music.apple.com/co/album/anemia/6819932396?i=6819932400&uo=2"
+          "title": "Se Enriquecio El Arruinao",
+          "artist": "Gildardo Montoya",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/7f/d5/287fd58f-50aa-5b9b-6aef-36d3e4c40d91/656465354969.jpg/170x170bb.png",
+          "link": "https://music.apple.com/co/album/se-enriquecio-el-arruinao/6817580626?i=6817580885&uo=2"
         },
         {
-          "title": "Drip",
-          "artist": "ATEEZ",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/170x170bb.png",
-          "link": "https://music.apple.com/co/album/drip/6819932396?i=6819932403&uo=2"
+          "title": "No Volveré",
+          "artist": "Mariachi Divas De Cindy Shea & Lupita Infante",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/a8/84/31a884d6-c7b7-d133-4ce6-57fe8def6993/8718521249755.jpg/170x170bb.png",
+          "link": "https://music.apple.com/co/album/no-volver%C3%A9/1895777206?i=6764430831&uo=2"
         },
         {
-          "title": "Hollow Victory",
-          "artist": "ATEEZ",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/170x170bb.png",
-          "link": "https://music.apple.com/co/album/hollow-victory/6819932396?i=6819932407&uo=2"
+          "title": "ORIGAMI (&TEAM)",
+          "artist": "SANTOS BRAVOS & &TEAM",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/df/e9/08dfe9ad-6830-1c4a-3ea3-d8f0d7b59a5b/823375558811_Cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/co/album/origami-team/6827789110?i=6827789113&uo=2"
         }
       ],
       "movies": [
         {
-          "title": "El corazón de la bestia",
-          "artist": "David Ayer",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/27/10/b1271002-3bc3-d83d-8aae-46a60e89688f/Heart_of_the_Beast_US_2000x3000.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/co/movie/el-coraz%C3%B3n-de-la-bestia/id6812460052?uo=2"
-        },
-        {
-          "title": "Spider-man: Un nuevo día",
-          "artist": "Destin Daniel Cretton",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/83/89/2f/83892f4d-a5c0-1c4d-cae5-9f61212c4df8/DP_10546099_SpiderManBrandNewDay_2026_IT_AM_2000x3000_Poster_MEX.png/115x170bb.png",
-          "link": "https://itunes.apple.com/co/movie/spider-man-un-nuevo-d%C3%ADa/id6793590242?uo=2"
-        },
-        {
-          "title": "Resident Evil: noche cero",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2b/6b/5e/2b6b5eaf-2534-c67c-5aa9-a770b4f1813b/DP_10622483_ResidentEvil_2026_IT_AM_2000x3000_Poster_MEX.png/115x170bb.png",
-          "link": "https://itunes.apple.com/co/movie/resident-evil-noche-cero/id6807575287?uo=2"
+          "title": "La odisea",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6d/4f/aa/6d4faa20-6501-93dc-5a68-472081d53142/tns.tbqsfiey.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/co/movie/la-odisea/id6822007631?uo=2"
         },
         {
           "title": "Los Juegos del Hambre \"Versión en Español\"",
@@ -595,10 +583,22 @@
           "link": "https://itunes.apple.com/co/movie/los-juegos-del-hambre-versi%C3%B3n-en-espa%C3%B1ol/id916419059?uo=2"
         },
         {
-          "title": "Obsesión",
-          "artist": "Curry Barker",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ac/ae/33/acae3390-9373-956c-9d93-e2276cf0fe5c/OBS_Digital_Keyart_APP_2000x3000_LATAM_LAS_XYi.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/co/movie/obsesi%C3%B3n/id1895899231?uo=2"
+          "title": "Los juegos del hambre: En llamas",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/af/ba/42/afba428e-e111-9c62-8ae7-dee40377e619/iTunes_HungerGames_CatchingFire_2000x3000_LAS.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/co/movie/los-juegos-del-hambre-en-llamas/id808328030?uo=2"
+        },
+        {
+          "title": "Los Juegos del Hambre: La Balada de los Pájaros Cantores y las Serpientes",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6a/73/80/6a73801d-2e33-527b-fc06-9753974b462e/THG_BSS_iTunes_Transactional-Movies-Cover_LAS.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/co/movie/los-juegos-del-hambre-la-balada-de-los-p%C3%A1jaros/id1715087295?uo=2"
+        },
+        {
+          "title": "El corazón de la bestia",
+          "artist": "David Ayer",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/27/10/b1271002-3bc3-d83d-8aae-46a60e89688f/Heart_of_the_Beast_US_2000x3000.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/co/movie/el-coraz%C3%B3n-de-la-bestia/id6812460052?uo=2"
         }
       ],
       "books": [
@@ -658,42 +658,54 @@
       ],
       "songs": [
         {
-          "title": "UP",
-          "artist": "ATEEZ",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/170x170bb.png",
-          "link": "https://music.apple.com/cl/album/up/6819932396?i=6819932404&uo=2"
+          "title": "Flower In A Hurricane",
+          "artist": "Justice, SZA, King Gizzard & The Lizard Wizard & Tame Impala",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/170x170bb.png",
+          "link": "https://music.apple.com/cl/album/flower-in-a-hurricane/6812476961?i=6812477273&uo=2"
         },
         {
-          "title": "Say You Won't Let Go",
-          "artist": "James Arthur",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/c2/89/9cc289cb-66fe-a754-8ec7-859d76d65c55/886445946789.jpg/170x170bb.png",
-          "link": "https://music.apple.com/cl/album/say-you-wont-let-go/1147252339?i=1147252591&uo=2"
+          "title": "Breakaway",
+          "artist": "Kelly Clarkson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/7e/c5/e37ec5d7-725b-695c-333c-ee0deb5adcc6/dj.mveioodu.jpg/170x170bb.png",
+          "link": "https://music.apple.com/cl/album/breakaway/275765354?i=275765378&uo=2"
         },
         {
-          "title": "BbY WOW (John Summit Remix) [feat. Judeline & rusowsky]",
-          "artist": "KAROL G & John Summit",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/8d/be/b48dbe2e-7668-eeaa-a5b2-257a9c8e33b9/823375587323_Cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/cl/album/bby-wow-john-summit-remix-feat-judeline-rusowsky/6831822973?i=6831823102&uo=2"
+          "title": "BABY ANGEL",
+          "artist": "NAYEON",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/91/1f/fe911f93-d930-224b-db86-55e09d9527a0/8809928956206_Cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/cl/album/baby-angel/6828812151?i=6828812164&uo=2"
         },
         {
-          "title": "La Vie En Rose",
-          "artist": "Grace Jones",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0e/e7/b9/0ee7b9f3-855f-93ae-9200-f00c5a7779e7/00042284261425.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/cl/album/la-vie-en-rose/1444083597?i=1444083868&uo=2"
+          "title": "Sun Showers (From \"The Angry Birds Movie 3”)",
+          "artist": "JISOO",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/d9/fd/94d9fdd8-e447-8738-3de3-7390f028d0a7/054391209474.jpg/170x170bb.png",
+          "link": "https://music.apple.com/cl/album/sun-showers-from-the-angry-birds-movie-3/6829004089?i=6829004090&uo=2"
         },
         {
-          "title": "A Little More Love",
-          "artist": "Olivia Newton-John",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/95/63/629563b5-d008-3617-3d0e-daed16d1d319/00792755900857_Cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/cl/album/a-little-more-love/1876796272?i=1876796762&uo=2"
+          "title": "Thunderstruck",
+          "artist": "AC/DC",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/bb/a2/f0/bba2f0d7-4d9e-c617-d49e-3ae02fd5d440/dj.xbkfgllk.jpg/170x170bb.png",
+          "link": "https://music.apple.com/cl/album/thunderstruck/575998519?i=575998661&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "La odisea",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6d/4f/aa/6d4faa20-6501-93dc-5a68-472081d53142/tns.tbqsfiey.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/cl/movie/la-odisea/id6822007631?uo=2"
+        },
         {
           "title": "El corazón de la bestia",
           "artist": "David Ayer",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/27/10/b1271002-3bc3-d83d-8aae-46a60e89688f/Heart_of_the_Beast_US_2000x3000.jpg/115x170bb.png",
           "link": "https://itunes.apple.com/cl/movie/el-coraz%C3%B3n-de-la-bestia/id6812460052?uo=2"
+        },
+        {
+          "title": "Los Juegos del Hambre \"Versión en Español\"",
+          "artist": "Gary Ross",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/b8/fc/b6/b8fcb60a-007b-12b2-716d-847955c23f6d/TEF-9450-D53935-V001-TheHungerGames_Argentina_iTunes_Poster.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/cl/movie/los-juegos-del-hambre-versi%C3%B3n-en-espa%C3%B1ol/id916419059?uo=2"
         },
         {
           "title": "Spider-man: Un nuevo día",
@@ -702,22 +714,10 @@
           "link": "https://itunes.apple.com/cl/movie/spider-man-un-nuevo-d%C3%ADa/id6793590242?uo=2"
         },
         {
-          "title": "Resident Evil: noche cero",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2b/6b/5e/2b6b5eaf-2534-c67c-5aa9-a770b4f1813b/DP_10622483_ResidentEvil_2026_IT_AM_2000x3000_Poster_MEX.png/115x170bb.png",
-          "link": "https://itunes.apple.com/cl/movie/resident-evil-noche-cero/id6807575287?uo=2"
-        },
-        {
-          "title": "El día de la revelación",
-          "artist": "Steven Spielberg",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/bf/79/00/bf790051-033b-647e-3295-62145455fab7/UNI_DISCLOSURE_DAY_TH_ITUNES_EPO_ES_ARTWORK_ES-ES_2000x3000_5F1LFI00000AF2.png/115x170bb.png",
-          "link": "https://itunes.apple.com/cl/movie/el-d%C3%ADa-de-la-revelaci%C3%B3n/id1896826363?uo=2"
-        },
-        {
-          "title": "Obsesión",
-          "artist": "Curry Barker",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ac/ae/33/acae3390-9373-956c-9d93-e2276cf0fe5c/OBS_Digital_Keyart_APP_2000x3000_LATAM_LAS_XYi.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/cl/movie/obsesi%C3%B3n/id1895899231?uo=2"
+          "title": "Los Juegos del Hambre: La Balada de los Pájaros Cantores y las Serpientes",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f3/6b/50/f36b50a7-796c-8374-27fd-7ed377e8e745/THG_BSS_iTunes_Transactional-Movies-Cover_LAS.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/cl/movie/los-juegos-del-hambre-la-balada-de-los-p%C3%A1jaros/id1715087295?uo=2"
         }
       ],
       "books": [
@@ -783,42 +783,36 @@
           "link": "https://music.apple.com/es/album/bonito-bonito/6810810194?i=6810810195&uo=2"
         },
         {
-          "title": "Inercia",
-          "artist": "Polo Nandez & Cepeda",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/f8/6b/29f86b74-6208-18a5-14d8-f915267be65b/711641072973.jpg/170x170bb.png",
-          "link": "https://music.apple.com/es/album/inercia/6831138727?i=6831138734&uo=2"
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/es/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
         },
         {
-          "title": "Rise Slow",
-          "artist": "Kimo Sounds",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/170x170bb.png",
-          "link": "https://music.apple.com/es/album/rise-slow/6789752111?i=6789752112&uo=2"
-        },
-        {
-          "title": "The Greatest Show On Earth",
-          "artist": "U2",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/es/album/the-greatest-show-on-earth/6812412381?i=6812412674&uo=2"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/170x170bb.png",
+          "link": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754&uo=2"
         },
         {
           "title": "Movin' To The Sun",
           "artist": "HUGEL, Imael Angel & Ultra Naté",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/170x170bb.png",
           "link": "https://music.apple.com/es/album/movin-to-the-sun/6769069923?i=6769070199&uo=2"
+        },
+        {
+          "title": "La Nieve (Original song from the film La Bola Negra)",
+          "artist": "Guitarricadelafuente",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/22/f7/f222f717-46b7-651c-76d1-e79e4ea28713/196874767580.jpg/170x170bb.png",
+          "link": "https://music.apple.com/es/album/la-nieve-original-song-from-the-film-la-bola-negra/6810331746?i=6810331747&uo=2"
         }
       ],
       "movies": [
         {
-          "title": "Resident Evil (2026)",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/es/movie/resident-evil-2026/id6807575287?uo=2"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "artist": "Destin Daniel Cretton",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/115x170bb.png",
-          "link": "https://itunes.apple.com/es/movie/spider-man-brand-new-day/id6793590242?uo=2"
+          "title": "La Odisea",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/2a/40/ec/2a40ec26-c9d3-9479-2312-aa827cd75d18/tns.msnnsler.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/es/movie/la-odisea/id6822007631?uo=2"
         },
         {
           "title": "Los Juegos del Hambre (The Hunger Games)",
@@ -827,10 +821,16 @@
           "link": "https://itunes.apple.com/es/movie/los-juegos-del-hambre-the-hunger-games/id554271655?uo=2"
         },
         {
-          "title": "El día de la revelación",
-          "artist": "Steven Spielberg",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1b/1e/81/1b1e8161-0dfb-c0ef-7828-9116e711b9d8/UNI_DISCLOSURE_DAY_TH_ITUNES_EPO_ES_ARTWORK_ES-ES_2000x3000_5F1LFI00000AF2.png/115x170bb.png",
-          "link": "https://itunes.apple.com/es/movie/el-d%C3%ADa-de-la-revelaci%C3%B3n/id1896826363?uo=2"
+          "title": "El motín",
+          "artist": "Jean-François Richet",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c9/c8/1f/c9c81f3f-17c1-7d4e-ddb6-6c2d9ea9aacb/ElMotin-Artwork-2000x3000.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/es/movie/el-mot%C3%ADn/id6825369852?uo=2"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "artist": "Destin Daniel Cretton",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/115x170bb.png",
+          "link": "https://itunes.apple.com/es/movie/spider-man-brand-new-day/id6793590242?uo=2"
         },
         {
           "title": "Los juegos del hambre: Sinsajo parte 2",
@@ -889,19 +889,19 @@
       "radioName": "Capital UK London",
       "articles": [
         {
-          "title": "Jimmy Kimmel on Trump accusing Democrats of wrongdoing: ‘His mantra is corruption’",
-          "link": "https://www.theguardian.com/culture/2026/nov/13/late-night-roundup-kimmel-meyers-trump-huang-hegseth",
-          "desc": "Late-night hosts poked fun at the president taking JD Vance off Iran duty to sniff out corruption while expressing annoyance at Democrats for failing to impeach Pete HegsethLate-night hosts ridiculed Donald Trump’s latest efforts to accuse Democrats of corruption while showing fr..."
+          "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+          "link": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+          "desc": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producerA Home Alone sequel is reportedly in development with original star Macaulay Culkin set to return.According to Puck’s Matthew Belloni, Culkin met with Disney exe..."
         },
         {
-          "title": "Robert Pattinson reportedly leads James Bond contenders",
-          "link": "https://www.theguardian.com/film/2026/nov/13/robert-pattinson-reportedly-leads-james-bond-contenders",
-          "desc": "Reports that the star – the most high-profile of the final five contenders – has been offered favourable contract terms hint that Amazon MGM may want him as its first 007Robert Pattinson has emerged as the favourite in the race to succeed Daniel Craig as James Bond, according to ..."
+          "title": "Seth Meyers on Elon Musk saying he’s not Maga: ‘Trump’s closest allies are scrambling to get away’",
+          "link": "https://www.theguardian.com/culture/2026/nov/20/seth-meyers-elon-musk-maga-trump",
+          "desc": "Late-night hosts discussed Musk distancing himself from Trump as the president palled around with Putin in ChinaLate-night hosts mocked Elon Musk’s claim that he is “not Maga” and Donald Trump’s cozy summit with Xi Jinping and his “friend” Vladimir Putin. Continue reading......"
         },
         {
-          "title": "Heartland review – Jessica Chastain’s Netflix country music thriller is more miss than hit",
-          "link": "https://www.theguardian.com/film/2026/nov/13/heartland-review-jessica-chastain-netflix",
-          "desc": "The Oscar winner plays a singer turned detective searching for her niece in an overly generic Nashville-based mystery that fails to find its footingGiven the popularity of its music and the streaming services’ interest in faith-based programming, I’m always a little surprised tha..."
+          "title": "Melania: the series review – so bad it robbed me of my capacity to discern time and space",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/nov/20/melania-review-tv-documentary-prime",
+          "desc": "The first lady’s two-part TV documentary is a dead-eyed advert that barely manages to masquerade as entertainment. Calling it thin gruel would be an insult to the gruel industryPreviously on Melania: earlier this year – either because it found her a compelling subject, or because..."
         }
       ],
       "songs": [
@@ -912,10 +912,10 @@
           "link": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=2"
         },
         {
-          "title": "Fairytale of New York",
-          "artist": "Hozier & Jessie Buckley",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/47/4b/1b474b56-a830-4d80-a3ee-61291964567c/8721416643453.png/170x170bb.png",
-          "link": "https://music.apple.com/gb/album/fairytale-of-new-york/6815087143?i=6815087144&uo=2"
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
         },
         {
           "title": "Stop The Wedding!",
@@ -924,19 +924,25 @@
           "link": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=2"
         },
         {
+          "title": "Love Language",
+          "artist": "Sugababes",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/bd/e4/e4bde4d5-26bc-5d3a-9e28-f1472b0126c5/885288536294.jpg/170x170bb.png",
+          "link": "https://music.apple.com/gb/album/love-language/6809396653?i=6809397026&uo=2"
+        },
+        {
           "title": "Movin' To The Sun",
           "artist": "HUGEL, Imael Angel & Ultra Naté",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/170x170bb.png",
           "link": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199&uo=2"
-        },
-        {
-          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
-          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "The Odyssey (2026)",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/79/d5/38/79d5387b-fe43-2407-43d9-58dec05595f0/UNI_ODYSSEY_THE_TH_ITUNES_INTL_EPO_ARTWORK_WW_ARTWORK_EN_2000x3000_5LMHTJ00000A3X.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/gb/movie/the-odyssey-2026/id6822007631?uo=2"
+        },
         {
           "title": "Spider-Man: Brand New Day",
           "artist": "Destin Daniel Cretton",
@@ -944,16 +950,10 @@
           "link": "https://itunes.apple.com/gb/movie/spider-man-brand-new-day/id6793590242?uo=2"
         },
         {
-          "title": "Resident Evil (2026)",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/gb/movie/resident-evil-2026/id6807575287?uo=2"
-        },
-        {
-          "title": "Pressure",
-          "artist": "Anthony Maras",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/90/8c/34/908c34a7-4c83-d118-e9fd-2394c3b00e7d/025495_UK.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/gb/movie/pressure/id6792001121?uo=2"
+          "title": "Michael (2026)",
+          "artist": "Antoine Fuqua",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c1/e1/f1/c1e1f128-c246-4d13-ec0c-e6bee9a2170a/UNI_MICHAEL_2026_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5CKC3S000002U6.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/gb/movie/michael-2026/id1891848932?uo=2"
         },
         {
           "title": "The Invite",
@@ -962,10 +962,10 @@
           "link": "https://itunes.apple.com/gb/movie/the-invite/id6783728243?uo=2"
         },
         {
-          "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
-          "artist": "Francis Lawrence",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/bc/e1/87/bce1870e-ebb6-0e01-6f79-5d0c9fc7a24f/THG_BSS_iTunes_Transactional-Movies-Cover.png/115x170bb.png",
-          "link": "https://itunes.apple.com/gb/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes/id1715087295?uo=2"
+          "title": "Verity",
+          "artist": "Michael Showalter",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/gb/movie/verity/id6808034868?uo=2"
         }
       ],
       "books": [
@@ -1018,19 +1018,19 @@
       "radioName": "FIP Radio Paris",
       "articles": [
         {
-          "title": "\"Rocky Run\" : une course pour célébrer le demi-siècle de légende du mythique boxeur incarné par Sylvester Stallone",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/rocky-run-une-course-pour-celebrer-le-demi-siecle-de-legende-du-mythique-boxeur-incarne-par-sylvester-stallone_8282894.html#xtor=RSS-3-%5Bculture%5D",
-          "desc": "Il y a 50 ans, le mythique Rocky sortait sur les écrans. L'histoire est celle d'un jeune boxeur issu des quartiers pauvres de Philadelphie qui va affronter le champion du monde. Derrière ce scénario se trouve un homme : Sylvester Stallone, un acteur qui peine à l'époque à sortir ..."
+          "title": "Jean Gabin, résistant durant la Seconde Guerre mondiale, honoré par la Marine française",
+          "link": "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/jean-gabin-resistant-durant-la-seconde-guerre-mondiale-honore-par-la-marine-francaise_8294150.html#xtor=RSS-3-%5Bculture%5D",
+          "desc": "À Royan, une flottille de réserve de la Marine nationale a pris le nom de Jean Moncorgé, le patronyme officiel de Jean Gabin, ce samedi 21 novembre. L'acteur fut également un fusilier marin et un libérateur, un engagement qui l’emmena jusqu’au nid d’aigle de Berchtesgaden d’Adolf..."
         },
         {
-          "title": "\"Fatherland\" et \"La Bola Negra\" en tête des nominations aux European Film Awards",
-          "link": "https://www.franceinfo.fr/culture/cinema/fatherland-et-la-bola-negra-en-tete-des-nominations-aux-european-film-awards_8282783.html#xtor=RSS-3-%5Bculture%5D",
-          "desc": "Les productions et les coproductions françaises raflent la mise, notamment dans la catégorie animation où elles sont seules en lice...."
+          "title": "TeddyBear chante les médicaments qui aident à vivre",
+          "link": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/teddybear-chante-les-medicaments-qui-aident-a-vivre_8271701.html#xtor=RSS-3-%5Bculture%5D",
+          "desc": "Dans \"Les Monstres\", un titre de son premier album, qui vient de sortir, le chanteur belge évoque les pilules et cachets qui aident à affronter les peurs et les angoisses de chacun. Il ajoute à une tradition abondante......"
         },
         {
-          "title": "La chanteuse Carmelle offre la victoire aux Philippines pour la première édition du concours Eurovision d'Asie",
-          "link": "https://www.franceinfo.fr/culture/musique/la-chanteuse-carmelle-offre-la-victoire-aux-philippines-pour-la-premiere-edition-du-concours-eurovision-d-asie_8282693.html#xtor=RSS-3-%5Bculture%5D",
-          "desc": "Contrairement à l'édition européenne organisée par des diffuseurs publics, le concours asiatique est géré par des chaînes de télévision privées et les spectateurs ne pouvaient pas voter pour leur propre pays...."
+          "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
+          "link": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html#xtor=RSS-3-%5Bculture%5D",
+          "desc": "En 2025, cet homme de 36 ans avait attaqué à coups de marteau une vitrine contenant la \"Pierre du Destin\", un bloc de grès utilisé lors du couronnement des rois en Écosse. Il sera fixé sur son sort le 6 janvier...."
         }
       ],
       "songs": [
@@ -1041,10 +1041,10 @@
           "link": "https://music.apple.com/fr/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
         },
         {
-          "title": "Rise Slow",
-          "artist": "Kimo Sounds",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/170x170bb.png",
-          "link": "https://music.apple.com/fr/album/rise-slow/6789752111?i=6789752112&uo=2"
+          "title": "Te rencontrer encore",
+          "artist": "ESTL",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/fd/36/69fd3690-130d-5318-4680-4aa739ed0ff8/5026854991672.jpg/170x170bb.png",
+          "link": "https://music.apple.com/fr/album/te-rencontrer-encore/1889856146?i=1889856165&uo=2"
         },
         {
           "title": "Movin' To The Sun",
@@ -1053,19 +1053,25 @@
           "link": "https://music.apple.com/fr/album/movin-to-the-sun/6769069923?i=6769070199&uo=2"
         },
         {
-          "title": "Un mal pour un bien",
-          "artist": "Marine & Danyl",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/64/10/2964104d-5191-f339-e358-57fb6ef9524a/196874631928.jpg/170x170bb.png",
-          "link": "https://music.apple.com/fr/album/un-mal-pour-un-bien/6819754748?i=6819754759&uo=2"
+          "title": "Les antisémites",
+          "artist": "Pierre Perret",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/96/f6/e896f64b-bffb-55dd-9ff7-cc994931c835/26UM1IM01969.rgb.jpg/170x170bb.png",
+          "link": "https://music.apple.com/fr/album/les-antis%C3%A9mites/6826023402?i=6826023784&uo=2"
         },
         {
-          "title": "Juste une fois",
-          "artist": "Lenie",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/e1/53/24e153f7-539f-dece-d021-a1f1e71a9b5b/196874887097.jpg/170x170bb.png",
-          "link": "https://music.apple.com/fr/album/juste-une-fois/6822375896?i=6822375907&uo=2"
+          "title": "Rise Slow",
+          "artist": "Kimo Sounds",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/170x170bb.png",
+          "link": "https://music.apple.com/fr/album/rise-slow/6789752111?i=6789752112&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "L'Odyssée",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/83/1a/38/831a3865-ef56-c33b-ffc5-39e9474e0d8a/tns.kkvcssah.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/fr/movie/lodyss%C3%A9e/id6822007631?uo=2"
+        },
         {
           "title": "La bataille de Gaulle - partie 2 : j'écris ton nom",
           "artist": "Antonin Baudry",
@@ -1079,22 +1085,16 @@
           "link": "https://itunes.apple.com/fr/movie/la-bataille-de-gaulle-partie-1-l%C3%A2ge-de-fer/id1896821963?uo=2"
         },
         {
-          "title": "Des Minions et des monstres",
-          "artist": "Pierre Coffin",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ea/90/ed/ea90ed83-899a-00c4-a79c-64b46296a26a/tns.rjkaeevx.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/fr/movie/des-minions-et-des-monstres/id6779469550?uo=2"
+          "title": "De la Comédie-française",
+          "artist": "Unknown",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6a/45/9a/6a459a3d-3243-0dc9-3152-5ead770ce737/651362-artwork-1.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/fr/movie/de-la-com%C3%A9die-fran%C3%A7aise/id6823298448?uo=2"
         },
         {
-          "title": "Disclosure Day",
-          "artist": "Steven Spielberg",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/27/e1/f9/27e1f9e8-54e5-2752-dffe-a385ad954bb9/UNI_DISCLOSURE_DAY_TH_ITUNES_BE_FR_LU_ARTWORK_FR-FR_2000x3000_5F1LFI00002G9X.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/fr/movie/disclosure-day/id1896826363?uo=2"
-        },
-        {
-          "title": "Toy Story 5",
-          "artist": "Andrew Stanton",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/47/f7/2d/47f72d28-13ef-9518-4222-d78fed6c449f/DIS_TOY_STORY_5_TH_FRP_ITUNES_WW_ARTWORK_EN_2000x3000_5H9HF800000DYA.png/115x170bb.png",
-          "link": "https://itunes.apple.com/fr/movie/toy-story-5/id6793024743?uo=2"
+          "title": "Dune : Deuxième Partie",
+          "artist": "Denis Villeneuve",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/62/22/cd/6222cdcf-4d17-6176-4596-5fe8d07d7ebd/adbd930a-e8bd-4202-993c-e312ea78b57d_DUNE_PART2_STD_APO_V_DD_KA_TT_2000x3000_300dpi_FR-srgb.lsr/115x170bb.png",
+          "link": "https://itunes.apple.com/fr/movie/dune-deuxi%C3%A8me-partie/id1725365997?uo=2"
         }
       ],
       "books": [
@@ -1147,22 +1147,40 @@
       "radioName": "Rai Radio 3 Classica",
       "articles": [
         {
-          "title": "Agli EFA 2027 testa a testa tra Fatherland e La bola negra",
-          "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/14/agli-efa-2027-testa-a-testa-tra-fatherland-e-la-bola-negra_8ba79f60-a74e-45c0-bfb0-0e956808da89.html",
-          "desc": "Premiazione il 16 gennaio ad Atene..."
+          "title": "A Pupi Avati il \"premio humanitas - custode della memoria\"",
+          "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/21/a-pupi-avati-il-premio-humanitas-custode-della-memoria_43558768-9e47-4430-97de-546d03746645.html",
+          "desc": "Venerdì 11 dicembre a Castel Gandolfo l'omaggio dell'Hallelujah Film Festival..."
         },
         {
-          "title": "Le turbolenze pittoriche di Emilio Vedova in mostra a Monfalcone",
-          "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/le-turbolenze-pittoriche-di-emilio-vedova-in-mostra-a-monfalcone_fb9cf357-d139-47db-a9fc-77b3d74ebfce.html",
-          "desc": "Fino al 2 maggio esposte 143 opere alla Galleria comunale..."
+          "title": "Addio a Paolo Bulgari, il \"Re\" dell'alta gioielleria",
+          "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/21/addio-a-paolo-bulgari-il-re-dellalta-gioielleria_93a94201-3355-4917-ba26-e518e1ba8abf.html",
+          "desc": "L'omaggio di Arnault, artefice chiave del successo del marchio..."
         },
         {
-          "title": "Verdone, 'la commedia è un antidepressivo senza effetti collaterali'",
-          "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/14/verdone-la-commedia-e-un-antidepressivo-senza-effetti-collaterali_c5ab4926-5f03-4c1c-a55a-a73d35ab6170.html",
-          "desc": "Carlo col fratello Luca al Festival del cinema europeo di Lecce..."
+          "title": "George Michael, la voce dell'anima tra successi, lutti e generosità segreta in un libro",
+          "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/21/george-michael-la-voce-dellanima-tra-successi-lutti-e-generosita-segreta-in-un-libro_921e76be-551e-486e-84b0-3d26c76a4e3d.html",
+          "desc": "Il testo di Gabriele Antonucci a dieci anni dalla morte, con un ricordo di Andrew Ridgeley..."
         }
       ],
       "songs": [
+        {
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/it/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
+        },
+        {
+          "title": "Vivian",
+          "artist": "Alex Fontana",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/a3/78/6ea37862-9947-8648-5c63-3b1c9fb5a1d5/1200220505357.jpg/170x170bb.png",
+          "link": "https://music.apple.com/it/album/vivian/6835700824?i=6835700827&uo=2"
+        },
+        {
+          "title": "Le_Ali",
+          "artist": "Max Pezzali",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/14/d8/d514d882-3d4a-03eb-fe79-43f95c9d9d02/1200220194940.jpg/170x170bb.png",
+          "link": "https://music.apple.com/it/album/le-ali/6815304826?i=6815304829&uo=2"
+        },
         {
           "title": "Eri solo da incontrare",
           "artist": "Alfa",
@@ -1170,31 +1188,19 @@
           "link": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803&uo=2"
         },
         {
-          "title": "Che Notte È Questa!",
-          "artist": "Claudio Baglioni",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/57/46/775746c8-1f7a-997d-6fa0-8fca23df7d84/196874940518.jpg/170x170bb.png",
-          "link": "https://music.apple.com/it/album/che-notte-%C3%A8-questa/6831232530?i=6831232535&uo=2"
-        },
-        {
-          "title": "Ciao",
-          "artist": "Elisa",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/3d/68/3d3d68f3-ea1b-3c43-4f7a-b27a0b3c5d44/26UM1IM41528.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/it/album/ciao/6829954391?i=6829954393&uo=2"
-        },
-        {
-          "title": "Nella Borsa Di Anna",
-          "artist": "Pinguini Tattici Nucleari",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/a0/cf/13a0cf3a-1d81-8b9c-0019-f3f302699034/196874869017.jpg/170x170bb.png",
-          "link": "https://music.apple.com/it/album/nella-borsa-di-anna/6821912847?i=6821912849&uo=2"
-        },
-        {
-          "title": "Ogni volta che sei qui",
-          "artist": "Gazzelle",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/97/d5/3e97d52b-7cda-ee97-dc0f-d69427315474/1200220424696.jpg/170x170bb.png",
-          "link": "https://music.apple.com/it/album/ogni-volta-che-sei-qui/6830255078?i=6830255079&uo=2"
+          "title": "Believe Me",
+          "artist": "Teo Bok",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/71/8b/59718b5d-8f2c-92a6-f7ba-6fd7a5447c48/1200220505470.jpg/170x170bb.png",
+          "link": "https://music.apple.com/it/album/believe-me/6835700798?i=6835701043&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "Odissea",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/db/4c/93/db4c93ae-8bc8-76cc-74f2-a2bad765e457/tns.zffpippw.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/it/movie/odissea/id6822007631?uo=2"
+        },
         {
           "title": "Heart Of The Beast: Nel Profondo Selvaggio",
           "artist": "David Ayer",
@@ -1208,22 +1214,16 @@
           "link": "https://itunes.apple.com/it/movie/spider-man-brand-new-day/id6793590242?uo=2"
         },
         {
-          "title": "Robin Hood: Il prezzo del sangue",
-          "artist": "Michael Sarnoski",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/fe/47/5a/fe475a73-43ae-c82b-bd13-6bcf5fd6e498/SWEETCHILI_RobinHoodIlPrezzoDelSangue_it_2000x3000_Poster_AA002056.png/115x170bb.png",
-          "link": "https://itunes.apple.com/it/movie/robin-hood-il-prezzo-del-sangue/id6827969132?uo=2"
+          "title": "Hokum",
+          "artist": "Damian McCarthy",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e9/7d/2b/e97d2b10-e39a-add3-8a0a-bd990fd5e963/WW.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/it/movie/hokum/id6825806662?uo=2"
         },
         {
-          "title": "Resident Evil (2026)",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/it/movie/resident-evil-2026/id6807575287?uo=2"
-        },
-        {
-          "title": "Godzilla Minus One",
-          "artist": "Takashi Yamazaki",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9f/b2/0b/9fb20b87-8152-67dc-cbc4-c68db0bd952e/GODZILLA_MINUS_ONE_2000X3000.png/115x170bb.png",
-          "link": "https://itunes.apple.com/it/movie/godzilla-minus-one/id1795438831?uo=2"
+          "title": "Verity",
+          "artist": "Michael Showalter",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/it/movie/verity/id6808034868?uo=2"
         }
       ],
       "books": [
@@ -1283,16 +1283,10 @@
       ],
       "songs": [
         {
-          "title": "Rise Slow",
-          "artist": "Kimo Sounds",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/170x170bb.png",
-          "link": "https://music.apple.com/de/album/rise-slow/6789752111?i=6789752112&uo=2"
-        },
-        {
-          "title": "Movin' To The Sun",
-          "artist": "HUGEL, Imael Angel & Ultra Naté",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/170x170bb.png",
-          "link": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199&uo=2"
+          "title": "WAS HAST DU MIT MIR GEMACHT",
+          "artist": "Helene Fischer",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/06/cb/a206cbe6-dc24-51d8-cee1-595e1404e0c6/26UM1IM36082.rgb.jpg/170x170bb.png",
+          "link": "https://music.apple.com/de/album/was-hast-du-mit-mir-gemacht/6824513570?i=6824513842&uo=2"
         },
         {
           "title": "Flower In A Hurricane [From GTAVI: Original Score]",
@@ -1301,24 +1295,42 @@
           "link": "https://music.apple.com/de/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
         },
         {
-          "title": "The Greatest Show On Earth",
-          "artist": "U2",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/de/album/the-greatest-show-on-earth/6812412381?i=6812412674&uo=2"
+          "title": "FLÜGEL",
+          "artist": "Sido",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/e4/d9/d3e4d9c4-5a97-bf68-89e1-3e617a4b1d5e/26UM1IM27856.rgb.jpg/170x170bb.png",
+          "link": "https://music.apple.com/de/album/fl%C3%BCgel/6818133439?i=6818133454&uo=2"
         },
         {
-          "title": "Babydoll",
-          "artist": "Jamie Miller & Antonio Cipriano",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/de/album/babydoll/6812888324?i=6812888327&uo=2"
+          "title": "Movin' To The Sun",
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/170x170bb.png",
+          "link": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199&uo=2"
+        },
+        {
+          "title": "Rise Slow",
+          "artist": "Kimo Sounds",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/170x170bb.png",
+          "link": "https://music.apple.com/de/album/rise-slow/6789752111?i=6789752112&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "Die Odyssee",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c4/b5/73/c4b5730d-bf81-23f6-31a1-1d86d0842ad8/tns.bseyhxez.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/de/movie/die-odyssee/id6822007631?uo=2"
+        },
         {
           "title": "Spider-Man: Brand New Day",
           "artist": "Destin Daniel Cretton",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/115x170bb.png",
           "link": "https://itunes.apple.com/de/movie/spider-man-brand-new-day/id6793590242?uo=2"
+        },
+        {
+          "title": "Paris Murder Mystery",
+          "artist": "Rebecca Zlotowski",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c3/e5/b8/c3e5b854-90de-6d7e-ef22-f395cf038a3a/DE_027480.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/de/movie/paris-murder-mystery/id1887871263?uo=2"
         },
         {
           "title": "Eiserne Wildnis: Heart Of The Beast",
@@ -1327,22 +1339,10 @@
           "link": "https://itunes.apple.com/de/movie/eiserne-wildnis-heart-of-the-beast/id6812466389?uo=2"
         },
         {
-          "title": "The Invite",
-          "artist": "Olivia Wilde",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/7c/fb/98/7cfb98f5-d0aa-f0ce-4b48-bea6a73117b8/DE_AT.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/de/movie/the-invite/id6791214104?uo=2"
-        },
-        {
           "title": "Die Tribute von Panem - The Hunger Games",
           "artist": "Gary Ross",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Video60/v4/32/94/4a/32944a37-fad0-7c3d-651e-c4062220960b/pr_source.lsr/115x170bb.png",
           "link": "https://itunes.apple.com/de/movie/die-tribute-von-panem-the-hunger-games/id543799825?uo=2"
-        },
-        {
-          "title": "Lucky Strike",
-          "artist": "Unknown",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d3/a8/cb/d3a8cb2c-5a3a-f45a-92f7-45d140d4b22d/LuckyStrike_LEONINE_LUCKYSTRIKE_ART-ENG.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/de/movie/lucky-strike/id6819252437?uo=2"
         }
       ],
       "books": [
@@ -1395,22 +1395,28 @@
       "radioName": "Antena 1 Lisboa",
       "articles": [
         {
-          "title": "Filme “Everytime” vence grande prémio do Lisboa Film Festival",
-          "link": "https://www.rtp.pt/noticias/cultura/filme-everytime-vence-grande-premio-do-lisboa-film-festival_n1779226",
-          "desc": "O filme “Everytime”, de Sandra Wollner, venceu o grande prémio NOS do 20.º Lisboa Film Festival (LEFFEST), enquanto o grande prémio João Bénard da Costa de melhor realização coube a “La perra”, de Dominga Sotomayor, anunciou hoje a organização...."
+          "title": "\"Virgem Fandango\" vence Prémio Cidade de Coimbra nos Caminhos do Cinema Português",
+          "link": "https://www.rtp.pt/noticias/cultura/virgem-fandango-vence-premio-cidade-de-coimbra-nos-caminhos-do-cinema-portugues_n1780817",
+          "desc": "O filme &quot;Virgem Fandango&quot;, de Marcy Page, venceu o Grande Prémio Cidade de Coimbra, na 32.ª edição dos Caminhos do Cinema Português, arrecadando ainda mais dois títulos de Melhor Banda Sonora e Melhor Animação...."
         },
         {
-          "title": "Estado português pagou 220 mil euros por pulseira que pertenceu à rainha D. Amélia",
-          "link": "https://www.rtp.pt/noticias/cultura/estado-portugues-pagou-220-mil-euros-por-pulseira-que-pertenceu-a-rainha-d-amelia_v1779215",
-          "desc": "A pulseira tem ao centro uma esmeralda colombiana lapidada em cabochão, rodeada de diamantes...."
+          "title": "Évora, o lugar onde (de)Vagar se faz cultura",
+          "link": "https://www.rtp.pt/noticias/pais/evora-o-lugar-onde-devagar-se-faz-cultura_es1780506",
+          "desc": "Marina Abramovic, Romeo Castellucci, Anne Teresa De Keersmaeker e Marlene Monteiro Freitas estão entre os nomes de uma programação que reúne artistas de 40 países, 145 estreias mundiais e 6375 sessões públicas. De fevereiro a dezembro, Évora e o Alentejo transformam-se num palco ..."
         },
         {
-          "title": "\"Carnaval de Luz\". Primeiro álbum em 12 anos da banda U2",
-          "link": "https://www.rtp.pt/noticias/cultura/carnaval-de-luz-primeiro-album-em-12-anos-da-banda-u2_v1779151",
-          "desc": "&quot;Carnaval de Luz&quot; é o novo álbum dos U2. Doze temas inéditos. Um teve a participação de Dolly Parton...."
+          "title": "Filme animação português \"Viana A Lenda dos Corações de Ouro\" tem como cenário a cidade de Viana Castelo",
+          "link": "https://www.rtp.pt/noticias/cultura/filme-animacao-portugues-viana-a-lenda-dos-coracoes-de-ouro-tem-como-cenario-a-cidade-de-viana-castelo_n1780663",
+          "desc": "O filme animação português &quot;Viana A Lenda dos Corações de Ouro&quot;  é uma da maiores produções portuguesas de animação, está ao nível das produções internacionais dos grandes estúdios de animação...."
         }
       ],
       "songs": [
+        {
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/pt/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
+        },
         {
           "title": "Rise Slow",
           "artist": "Kimo Sounds",
@@ -1418,31 +1424,37 @@
           "link": "https://music.apple.com/pt/album/rise-slow/6789752111?i=6789752112&uo=2"
         },
         {
-          "title": "CR7",
-          "artist": "Plutónio",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/4a/bb/c34abba0-7871-267d-b584-9375510945eb/196874900376.jpg/170x170bb.png",
-          "link": "https://music.apple.com/pt/album/cr7/6823691673?i=6823691683&uo=2"
+          "title": "Innerbloom XI",
+          "artist": "RÜFÜS DU SOL & Hans Zimmer",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/da/b1/8bdab1cd-6a8a-9058-eaf8-d4cc46226dde/054391208538.jpg/170x170bb.png",
+          "link": "https://music.apple.com/pt/album/innerbloom-xi/6829087200?i=6829087201&uo=2"
         },
         {
-          "title": "Vida Loka",
-          "artist": "Plutónio",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/4a/bb/c34abba0-7871-267d-b584-9375510945eb/196874900376.jpg/170x170bb.png",
-          "link": "https://music.apple.com/pt/album/vida-loka/6823691673?i=6823691901&uo=2"
+          "title": "Breakaway",
+          "artist": "Kelly Clarkson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/7e/c5/e37ec5d7-725b-695c-333c-ee0deb5adcc6/dj.mveioodu.jpg/170x170bb.png",
+          "link": "https://music.apple.com/pt/album/breakaway/275765354?i=275765378&uo=2"
         },
         {
-          "title": "Tas no Ponto",
-          "artist": "Anselmo Ralph",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/bf/14/54bf140e-5a00-9776-6450-b445a56639af/cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/pt/album/tas-no-ponto/1692248738?i=1692248941&uo=2"
-        },
-        {
-          "title": "Isaltino",
-          "artist": "Plutónio",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/4a/bb/c34abba0-7871-267d-b584-9375510945eb/196874900376.jpg/170x170bb.png",
-          "link": "https://music.apple.com/pt/album/isaltino/6823691673?i=6823691900&uo=2"
+          "title": "Movin' To The Sun",
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/10/b4/8610b422-9eaf-dccc-bb90-68751386deeb/1134279.jpg/170x170bb.png",
+          "link": "https://music.apple.com/pt/album/movin-to-the-sun/6778877191?i=6778877440&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "A Odisseia",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/79/d5/38/79d5387b-fe43-2407-43d9-58dec05595f0/UNI_ODYSSEY_THE_TH_ITUNES_INTL_EPO_ARTWORK_WW_ARTWORK_EN_2000x3000_5LMHTJ00000A3X.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/pt/movie/a-odisseia/id6822007631?uo=2"
+        },
+        {
+          "title": "Heart Of The Beast: Heróis Inseparáveis",
+          "artist": "David Ayer",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/74/1a/71/741a7170-0572-7c2b-6a76-45cca2a8c788/Heart_of_the_Beast_PT_2000x3000.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/pt/movie/heart-of-the-beast-her%C3%B3is-insepar%C3%A1veis/id6812460052?uo=2"
+        },
         {
           "title": "Homem-Aranha: Um Novo Dia",
           "artist": "Destin Daniel Cretton",
@@ -1450,28 +1462,16 @@
           "link": "https://itunes.apple.com/pt/movie/homem-aranha-um-novo-dia/id6793590242?uo=2"
         },
         {
-          "title": "Runner: Corrida Pela Vida",
-          "artist": "Scott Waugh",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9a/ef/10/9aef1038-4320-2822-720f-3c37142028fe/IT703042_artwork_WW.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/pt/movie/runner-corrida-pela-vida/id6821118783?uo=2"
+          "title": "Verity",
+          "artist": "Michael Showalter",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/pt/movie/verity/id6808034868?uo=2"
         },
         {
-          "title": "Coraline",
-          "artist": "Henry Selick",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/1a/e6/ce/1ae6cecf-8fd7-7145-83eb-ec5a5caaffab/pr_source.lsr/115x170bb.png",
-          "link": "https://itunes.apple.com/pt/movie/coraline/id1640560163?uo=2"
-        },
-        {
-          "title": "Resident Evil (2026)",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/pt/movie/resident-evil-2026/id6807575287?uo=2"
-        },
-        {
-          "title": "Patrulha Pata: O Filme Dos Dinossauros",
-          "artist": "Cal Brunker",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/02/93/fe/0293fe48-de88-85d7-70a7-5535c7ad401a/Paw_Patrol_The_Dino_Movie_PT_2000x3000.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/pt/movie/patrulha-pata-o-filme-dos-dinossauros/id6788030157?uo=2"
+          "title": "Hunger Games: Mockingjay Part 1",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/30/dc/02/30dc021b-ade0-739a-9558-139535469f6a/THG_Mockingjay-Pt1_iTunes_Transactional-Movies-Cover.png/115x170bb.png",
+          "link": "https://itunes.apple.com/pt/movie/hunger-games-mockingjay-part-1/id938538816?uo=2"
         }
       ],
       "books": [
@@ -1524,60 +1524,54 @@
       "radioName": "Retro City Pop Tokyo",
       "articles": [
         {
-          "title": " Global powers converge on Manila as ASEAN summit kicks off ",
-          "link": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/politics/asean-manila-summit/",
-          "desc": "Southeast Asian heads of state will face questions on trade, security and an ongoing energy crisis while playing host to global leaders...."
+          "title": " As Trump basks in summit pomp, China’s Xi strengthens his hand ",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/politics/trump-china-xi-strength-analysis/",
+          "desc": "Xi emerged from a global gathering in China as a statesman who can keep a fragile trade truce with the U.S. in a holding pattern — where he likes it...."
         },
         {
-          "title": " Will Joseph plays starring role as England hammers Japan ",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/15/more-sports/japan-england-nations-championship/",
-          "desc": "Japan coach Eddie Jones said Harry Hockings' early red card was a pivotal moment for his team...."
+          "title": " ‘Armored Trooper VOTOMS: Die Graue Hexe’: Sci-fi franchise gets a stylish reboot ",
+          "link": "https://www.japantimes.co.jp/culture/2026/11/22/film/armored-trooper-votoms-die-graue-hexe/",
+          "desc": "Mamoru Oshii, director of \"Ghost in the Shell,\" dazzles and delights with his first animated film since 2008...."
         },
         {
-          "title": " U.S. floated idea of Ukraine ceding Donbas for NATO membership ",
-          "link": "https://www.japantimes.co.jp/news/2026/11/15/world/us-ukraine-ceding-donbas-nato/",
-          "desc": "This is the first time the question of linking NATO membership to territorial concessions has been raised during the talks...."
+          "title": " A sweet, rolled omelet worthy of a samurai warlord ",
+          "link": "https://www.japantimes.co.jp/life/2026/11/22/food-drink/washoku-essentials-datemaki-sweet-omelet-osechi-new-year/",
+          "desc": "\"Datemaki\" omelets are a traditional feature of multicourse osechi ryōri new-year cuisine...."
         }
       ],
       "songs": [
+        {
+          "title": "夜と青",
+          "artist": "supercell",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/5b/14/f25b14d9-642b-de9e-d102-4e46b564cffc/4547366865370.jpg/170x170bb.png",
+          "link": "https://music.apple.com/jp/album/%E5%A4%9C%E3%81%A8%E9%9D%92/6836142603?i=6836142604&uo=2"
+        },
+        {
+          "title": "YUME",
+          "artist": "Alan Walker, Raul",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/3c/f8/443cf858-c712-0597-fe8a-272e3e79bb5a/ANTCD-A0000021669.jpg/170x170bb.png",
+          "link": "https://music.apple.com/jp/album/yume/6833057260?i=6833057262&uo=2"
+        },
+        {
+          "title": "神々の襷(たすき)",
+          "artist": "桑田佳祐",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/6e/37/566e3730-d880-2bae-d864-4376a619dc49/VEATP-46105.jpg/170x170bb.png",
+          "link": "https://music.apple.com/jp/album/%E7%A5%9E%E3%80%85%E3%81%AE%E8%A5%B7-%E3%81%9F%E3%81%99%E3%81%8D/6831421655?i=6831421656&uo=2"
+        },
+        {
+          "title": "GiiiRIP",
+          "artist": "BIGBANG",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/0c/aa/2b0caa86-1fe7-6987-fa74-e7b410b2c25f/ANTCD-A0000021761.jpg/170x170bb.png",
+          "link": "https://music.apple.com/jp/album/giiirip/6835788955?i=6835789167&uo=2"
+        },
         {
           "title": "STAR feat. アイナ・ジ・エンド, AKLO",
           "artist": "ZORN",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/f3/51/0df35199-17a3-00cb-236f-87a22cbfdd84/4500000096684.jpg/170x170bb.png",
           "link": "https://music.apple.com/jp/album/star-feat-%E3%82%A2%E3%82%A4%E3%83%8A-%E3%82%B8-%E3%82%A8%E3%83%B3%E3%83%89-aklo/6832934654?i=6832934655&uo=2"
-        },
-        {
-          "title": "別班儀礼曲",
-          "artist": "千住明",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/0a/e7/fa0ae760-1fdf-da1c-979e-4574d35b9b0c/NS-2912.jpg/170x170bb.png",
-          "link": "https://music.apple.com/jp/album/%E5%88%A5%E7%8F%AD%E5%84%80%E7%A4%BC%E6%9B%B2/6824823039?i=6824823040&uo=2"
-        },
-        {
-          "title": "KILLA",
-          "artist": "YOASOBI",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/6d/6e/ee6d6e99-ffc6-d4b6-9b20-58dc7a092072/711641064473.jpg/170x170bb.png",
-          "link": "https://music.apple.com/jp/album/killa/6831510043?i=6831510081&uo=2"
-        },
-        {
-          "title": "結び",
-          "artist": "Ayumu Imazu",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/jp/album/%E7%B5%90%E3%81%B3/6817260750?i=6817260751&uo=2"
-        },
-        {
-          "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
-          "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/170x170bb.png",
-          "link": "https://music.apple.com/jp/album/yes-%E6%9D%B1%E4%BA%AC-feat-super-dragon-sakurashimeji-one-n-only-buddiis/6782749976?i=6782749979&uo=2"
         }
       ],
       "movies": [
-        {
-          "title": "ハート・オブ・ ビースト (字幕版)",
-          "artist": "David Ayer",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f7/29/2e/f7292e97-a5ca-35f2-2387-93be8cc962c3/Heart_of_the_Beast_JP_2000x3000__U00281_U0029.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/jp/movie/%E3%83%8F%E3%83%BC%E3%83%88-%E3%82%AA%E3%83%96-%E3%83%93%E3%83%BC%E3%82%B9%E3%83%88-%E5%AD%97%E5%B9%95%E7%89%88/id6812460052?uo=2"
-        },
         {
           "title": "スパイダーマン：ブランド・ニュー・デイ (字幕/吹替)",
           "artist": "Destin Daniel Cretton",
@@ -1585,22 +1579,28 @@
           "link": "https://itunes.apple.com/jp/movie/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E3%83%8B%E3%83%A5%E3%83%BC-%E3%83%87%E3%82%A4-%E5%AD%97%E5%B9%95-%E5%90%B9%E6%9B%BF/id6793590242?uo=2"
         },
         {
-          "title": "トイ・ストーリー5 (字幕/吹替)",
-          "artist": "Andrew Stanton",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/db/b9/84/dbb98481-714a-c379-db1e-da6309d86c8f/DIS_TOY_STORY_5_TH_JP_ITUNES-JP-EXC_JP_ARTWORK_JA-JP_2000x3000_5H9HF800000WNG.lsr/115x170bb.png",
-          "link": "https://itunes.apple.com/jp/movie/%E3%83%88%E3%82%A4-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC5-%E5%AD%97%E5%B9%95-%E5%90%B9%E6%9B%BF/id6808889198?uo=2"
+          "title": "スクリーム７ (字幕/吹替)",
+          "artist": "Kevin Williamson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e2/ca/37/e2ca37e7-2e88-f33c-35ad-a7f5fcb69e0f/Scream7_JP_2000x3000-srgb.lsr/115x170bb.png",
+          "link": "https://itunes.apple.com/jp/movie/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%EF%BC%97-%E5%AD%97%E5%B9%95-%E5%90%B9%E6%9B%BF/id1874255137?uo=2"
         },
         {
-          "title": "ミニオンズ&モンスターズ (字幕/吹替)",
-          "artist": "Pierre Coffin",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/3d/eb/ad/3debadac-56f4-deab-f8e8-5e05923ff6b0/tns.fgfqkgju.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/jp/movie/%E3%83%9F%E3%83%8B%E3%82%AA%E3%83%B3%E3%82%BA-%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%AD%97%E5%B9%95-%E5%90%B9%E6%9B%BF/id6812947020?uo=2"
+          "title": "ハート・オブ・ ビースト (字幕版)",
+          "artist": "David Ayer",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f7/29/2e/f7292e97-a5ca-35f2-2387-93be8cc962c3/Heart_of_the_Beast_JP_2000x3000__U00281_U0029.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/jp/movie/%E3%83%8F%E3%83%BC%E3%83%88-%E3%82%AA%E3%83%96-%E3%83%93%E3%83%BC%E3%82%B9%E3%83%88-%E5%AD%97%E5%B9%95%E7%89%88/id6812460052?uo=2"
         },
         {
-          "title": "ゴジラ-1.0",
-          "artist": "山崎貴",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/9f/27/11/9f2711da-ec38-ab12-e355-3248c520fa06/Godzila_MinusOne_Poster.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/jp/movie/%E3%82%B4%E3%82%B8%E3%83%A9-1-0/id1773015318?uo=2"
+          "title": "カジノ・ロワイヤル (字幕/吹替)",
+          "artist": "Martin Campbell",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/ae/ca/8c/aeca8c29-44fb-44ca-5298-904ab7783f9e/pr_source.lsr/115x170bb.png",
+          "link": "https://itunes.apple.com/jp/movie/%E3%82%AB%E3%82%B8%E3%83%8E-%E3%83%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AB-%E5%AD%97%E5%B9%95-%E5%90%B9%E6%9B%BF/id561902712?uo=2"
+        },
+        {
+          "title": "ゴーストバスターズ (字幕/吹替)",
+          "artist": "Unknown",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video60/v4/4e/80/68/4e806835-ab66-8aa1-8679-b97c82528396/pr_source.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/jp/movie/%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%AD%97%E5%B9%95-%E5%90%B9%E6%9B%BF/id397579652?uo=2"
         }
       ],
       "books": [
@@ -1668,34 +1668,34 @@
       ],
       "movies": [
         {
-          "title": "프로젝트 헤일메리",
-          "artist": "Phil Lord & Christopher Miller",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/0f/18/97/0f189734-c813-5704-2fa7-53afef4c968f/2000x3000_ProjectHailMary_INTL_ko-KR.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/kr/movie/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%97%A4%EC%9D%BC%EB%A9%94%EB%A6%AC/id1880810604?uo=2"
+          "title": "디스클로저 데이",
+          "artist": "Steven Spielberg",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e3/20/26/e3202624-4e50-39de-23bb-ed6c9db75f16/UNI_DISCLOSURE_DAY_TH_ITUNES_KR_ARTWORK_KO_2000x3000_5F1LFI00001DSA.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/kr/movie/%EB%94%94%EC%8A%A4%ED%81%B4%EB%A1%9C%EC%A0%80-%EB%8D%B0%EC%9D%B4/id1896826363?uo=2"
         },
         {
-          "title": "타짜: 벨제붑의 노래",
-          "artist": "Choi Kook-Hee",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/79/89/5d/79895d63-4ec1-f6a5-46b0-c09bf7bdd148/KR_2_3.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/kr/movie/%ED%83%80%EC%A7%9C-%EB%B2%A8%EC%A0%9C%EB%B6%91%EC%9D%98-%EB%85%B8%EB%9E%98/id6833424663?uo=2"
+          "title": "호빗: 다섯 군대 전투 (확장판)",
+          "artist": "Peter Jackson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/29/be/04/29be04fc-1353-f00e-9885-d226d5ffcf9d/Hobbit_BOFA_EE__V_DD_KA_TT_CVRART_2000x3000_300dpi_KR.lsr/115x170bb.png",
+          "link": "https://itunes.apple.com/kr/movie/%ED%98%B8%EB%B9%97-%EB%8B%A4%EC%84%AF-%EA%B5%B0%EB%8C%80-%EC%A0%84%ED%88%AC-%ED%99%95%EC%9E%A5%ED%8C%90/id1035079988?uo=2"
         },
         {
-          "title": "호프",
-          "artist": "나홍진",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/97/f5/99/97f599b2-47aa-427a-e81e-0cf72b38700a/megabox20260715_mainposter.png/115x170bb.png",
-          "link": "https://itunes.apple.com/kr/movie/%ED%98%B8%ED%94%84/id6820212719?uo=2"
+          "title": "호빗: 스마우그의 폐허 (확장판)",
+          "artist": "Peter Jackson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/d9/cf/a9/d9cfa95c-67c0-4bac-8516-96d97462f97c/Hobbit_DOS_EE__V_DD_KA_TT_CVRART_2000x3000_300dpi_KR.lsr/115x170bb.png",
+          "link": "https://itunes.apple.com/kr/movie/%ED%98%B8%EB%B9%97-%EC%8A%A4%EB%A7%88%EC%9A%B0%EA%B7%B8%EC%9D%98-%ED%8F%90%ED%97%88-%ED%99%95%EC%9E%A5%ED%8C%90/id907987873?uo=2"
         },
         {
-          "title": "레지던트 이블: 0번째 밤",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ad/e3/f2/ade3f2eb-a196-4de9-5593-4a3721f63813/DP_10622061_ResidentEvil_2026_2000x3000_KR.png/115x170bb.png",
-          "link": "https://itunes.apple.com/kr/movie/%EB%A0%88%EC%A7%80%EB%8D%98%ED%8A%B8-%EC%9D%B4%EB%B8%94-0%EB%B2%88%EC%A7%B8-%EB%B0%A4/id6807575287?uo=2"
+          "title": "호빗: 뜻밖의 여정 (확장판)",
+          "artist": "Peter Jackson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/af/29/4c/af294c53-d4cd-2fa6-fbe2-bf535f27cea4/Hobbit_AUJ_EE__V_DD_KA_TT_CVRART_2000x3000_300dpi_KR.lsr/115x170bb.png",
+          "link": "https://itunes.apple.com/kr/movie/%ED%98%B8%EB%B9%97-%EB%9C%BB%EB%B0%96%EC%9D%98-%EC%97%AC%EC%A0%95-%ED%99%95%EC%9E%A5%ED%8C%90/id709398213?uo=2"
         },
         {
-          "title": "미션 임파서블: 파이널 레코닝",
-          "artist": "Christopher McQuarrie",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/9b/4a/61/9b4a617b-5b79-3f1f-238b-f64192be3143/MI8_KR_2000x3000.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/kr/movie/%EB%AF%B8%EC%85%98-%EC%9E%84%ED%8C%8C%EC%84%9C%EB%B8%94-%ED%8C%8C%EC%9D%B4%EB%84%90-%EB%A0%88%EC%BD%94%EB%8B%9D/id1811804963?uo=2"
+          "title": "반지의 제왕: 반지 원정대(확장판)",
+          "artist": "Peter Jackson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/c1/5d/82/c15d82b2-2976-e40e-7271-9cc641b084c6/LOTR_FOTR_EE__V_DD_KA_TT_CVRART_2000x3000_300dpi_KR.lsr/115x170bb.png",
+          "link": "https://itunes.apple.com/kr/movie/%EB%B0%98%EC%A7%80%EC%9D%98-%EC%A0%9C%EC%99%95-%EB%B0%98%EC%A7%80-%EC%9B%90%EC%A0%95%EB%8C%80-%ED%99%95%EC%9E%A5%ED%8C%90/id430796548?uo=2"
         }
       ],
       "books": [
@@ -1748,59 +1748,59 @@
       "radioName": "Radio City Hindi",
       "articles": [
         {
-          "title": "Jr NTR announces his next with Anil Ravipudi",
-          "link": "https://www.thehindu.com/entertainment/movies/jr-ntr-announces-his-next-with-anil-ravipudi/article71701775.ece",
-          "desc": "The Telugu superstar took to social media to confirm his collaboration with Anil..."
+          "title": "‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it",
+          "link": "https://www.thehindu.com/entertainment/movies/godzilla-minus-zero-movie-review-takashi-yamazaki-ghidorah-kaiju/article71729196.ece",
+          "desc": "Takashi Yamazaki’s earth-shattering sequel doubles the nuclear reckoning and gives it straight back to Oppenheimer, wrapped in godlike spectacle and searing anti-imperial commentary..."
         },
         {
-          "title": "Rock gets a new incarnation, courtesy Bengaluru’s Reincarock",
-          "link": "https://www.thehindu.com/entertainment/music/rock-gets-a-new-incarnation-courtesy-bengalurus-reincarock/article71701169.ece",
-          "desc": "Reincarock is a new concert series that aims at giving Bengaluru-based rock bands a platform to showcase their work..."
+          "title": "Adam Port in Kolkata: How Keinemusik’s Afro-house found its rhythm in the city",
+          "link": "https://www.thehindu.com/entertainment/music/adam-port-in-kolkata-how-keinemusiks-afro-house-found-its-rhythm-in-the-city/article71710562.ece",
+          "desc": "From the anticipation surrounding ‘Se Saralina’ to a 360 degree dance floor that pulsed until 2am, the German DJ’s first Kolkata performance brought the city’s music lovers together in a shared rhythm..."
         },
         {
-          "title": "‘Heartland’ movie review: Jessica Chastain sings a song of suspense",
-          "link": "https://www.thehindu.com/entertainment/movies/heartland-movie-review-jessica-chastain-sings-a-song-of-suspense/article71701542.ece",
-          "desc": "The ode to forgiveness and love is lit by twanging guitars, ballads of country music, and an extraordinary performance by Jessica Chastain...."
+          "title": "IFFI 2026 | ‘Fatherland’ producer Ewa Puszczyńska: Films may not change the world overnight, but can open minds",
+          "link": "https://www.thehindu.com/entertainment/movies/iffi-2026-fatherland-producer-ewa-puszczynska-films-may-not-change-the-world-overnight-but-can-open-minds/article71727907.ece",
+          "desc": "The acclaimed Polish film producer was speaking at a press conference as ‘Fatherland’ opened the 57th IFFI on November 20..."
         }
       ],
       "songs": [
         {
-          "title": "Dileep Theme (Instrumental)",
-          "artist": "Anirudh Ravichander",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/61/88/476188e2-5cd5-2320-8f0b-f9cd978560fd/885288695823.jpg/170x170bb.png",
-          "link": "https://music.apple.com/in/album/dileep-theme-instrumental/6817733404?i=6817733639&uo=2"
+          "title": "Dilruba Dilnasheen",
+          "artist": "Rito Riba & Siddhant Kaushal",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/61/9c/a5619ce1-804e-f099-26d0-43df477ff378/823375513346_Cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/in/album/dilruba-dilnasheen/6819312748?i=6819312875&uo=2"
         },
         {
-          "title": "Boston",
-          "artist": "STELLA LEFTY",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/170x170bb.png",
-          "link": "https://music.apple.com/in/album/boston/1884403092?i=1884403093&uo=2"
+          "title": "SWIM",
+          "artist": "BTS",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/a2/b4/e0a2b443-7969-b57a-a591-cb6172c10aa7/198704943959_Cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/in/album/swim/1868481904?i=1868482073&uo=2"
         },
         {
-          "title": "Roddy Theme (From \"Jailer 2\")",
-          "artist": "Anirudh Ravichander",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/d2/84/d6d2848b-f41f-8f41-fdc9-25b25b2f310e/711641151814.jpg/170x170bb.png",
-          "link": "https://music.apple.com/in/album/roddy-theme-from-jailer-2/6827079993?i=6827080210&uo=2"
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/in/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
         },
         {
-          "title": "Jai Jai Ram (From \"Ramayana\")",
-          "artist": "A.R. Rahman, Shreya Ghoshal, Arijit Singh & Kumar Vishwas",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/ff/92/c3ff923d-f4a5-e708-9be2-97752b8c680f/8903431216816_cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/in/album/jai-jai-ram-from-ramayana/6811746467?i=6811746468&uo=2"
+          "title": "Iphone Ringtone Trap (Remix)",
+          "artist": "Jasser Labidi",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/58/8d/85588da7-6fd9-45e1-557a-57f713f218e3/192787331191.png/170x170bb.png",
+          "link": "https://music.apple.com/in/album/iphone-ringtone-trap-remix/1757956645?i=1757956646&uo=2"
         },
         {
-          "title": "The Child In Us",
-          "artist": "Enigma",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/25/1c/9e251c8a-da56-8fe1-26bf-a53addfa629a/00724384206550.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/in/album/the-child-in-us/723360539?i=723360884&uo=2"
+          "title": "Grand Theft Auto: San Andreas (Official Theme Song)",
+          "artist": "Michael Hunter",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ec/31/17ec3107-4f70-b7be-c19c-aca2ef2573d8/8720996784310.png/170x170bb.png",
+          "link": "https://music.apple.com/in/album/grand-theft-auto-san-andreas-official-theme-song/1708262967?i=1708262968&uo=2"
         }
       ],
       "movies": [
         {
-          "title": "Heart of the Beast",
-          "artist": "David Ayer",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/27/10/b1271002-3bc3-d83d-8aae-46a60e89688f/Heart_of_the_Beast_US_2000x3000.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/in/movie/heart-of-the-beast/id6812460052?uo=2"
+          "title": "The Odyssey (2026)",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/79/d5/38/79d5387b-fe43-2407-43d9-58dec05595f0/UNI_ODYSSEY_THE_TH_ITUNES_INTL_EPO_ARTWORK_WW_ARTWORK_EN_2000x3000_5LMHTJ00000A3X.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/in/movie/the-odyssey-2026/id6822007631?uo=2"
         },
         {
           "title": "Spider-Man: Brand New Day",
@@ -1809,22 +1809,22 @@
           "link": "https://itunes.apple.com/in/movie/spider-man-brand-new-day/id6793590242?uo=2"
         },
         {
-          "title": "Resident Evil (2026)",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c0/a3/5b/c0a35b3c-3b5d-3f9b-6824-2c99c7190b79/DP_10618991_RESIDENTEVIL2026_2000x3000_CITYKeyArt.png/115x170bb.png",
-          "link": "https://itunes.apple.com/in/movie/resident-evil-2026/id6807575287?uo=2"
-        },
-        {
-          "title": "Obsession (2026)",
-          "artist": "Curry Barker",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d6/19/ea/d619eae8-7522-221f-fdd4-564f970d1961/OBS_UIG_Digital_Keyart_APP_2000x3000_INTL_ENG_XYi.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/in/movie/obsession-2026/id6785582726?uo=2"
+          "title": "Heart of the Beast",
+          "artist": "David Ayer",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/27/10/b1271002-3bc3-d83d-8aae-46a60e89688f/Heart_of_the_Beast_US_2000x3000.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/in/movie/heart-of-the-beast/id6812460052?uo=2"
         },
         {
           "title": "The End of Oak Street",
           "artist": "David Robert Mitchell",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/115x170bb.png",
           "link": "https://itunes.apple.com/in/movie/the-end-of-oak-street/id6788867495?uo=2"
+        },
+        {
+          "title": "Verity",
+          "artist": "Michael Showalter",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/in/movie/verity/id6808034868?uo=2"
         }
       ],
       "books": [
@@ -1896,10 +1896,10 @@
           "link": "https://music.apple.com/tr/album/swim/1868481904?i=1868482073&uo=2"
         },
         {
-          "title": "BURADA SOKAKLAR",
-          "artist": "Batuflex, ERAY067 & MANSUR",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/df/e1/e6dfe101-04f4-c59d-b25f-5fd4446c811f/199538264302.jpg/170x170bb.png",
-          "link": "https://music.apple.com/tr/album/burada-sokaklar/1826066105?i=1826066109&uo=2"
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/tr/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
         },
         {
           "title": "Hileli",
@@ -1908,10 +1908,10 @@
           "link": "https://music.apple.com/tr/album/hileli/1895942716?i=6764868011&uo=2"
         },
         {
-          "title": "Umrumdışı",
-          "artist": "Mabel Matiz",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9b/07/149b0748-da05-c2b8-fe06-f8edf97b6006/820233718745.jpg/170x170bb.png",
-          "link": "https://music.apple.com/tr/album/umrumd%C4%B1%C5%9F%C4%B1/6779138389?i=6779138391&uo=2"
+          "title": "YIN YANG",
+          "artist": "Motive",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/b9/af/a3b9af1d-b176-5364-05e1-8874bbc1a2af/0.jpg/170x170bb.png",
+          "link": "https://music.apple.com/tr/album/yin-yang/1876468076?i=1876468077&uo=2"
         }
       ],
       "movies": [
@@ -1928,22 +1928,22 @@
           "link": "https://itunes.apple.com/tr/movie/obsession/id1895899231?uo=2"
         },
         {
-          "title": "Dune: Part Two",
-          "artist": "Denis Villeneuve",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a1/55/24/a15524ae-9cfe-1465-5782-83447cc248d3/780d6664-4c8a-4288-b33d-62e438b11792_DUNE_PART2_PVOD_V_DD_KA_TT_2000x3000_300dpi_TR-srgb.lsr/115x170bb.png",
-          "link": "https://itunes.apple.com/tr/movie/dune-part-two/id1725365997?uo=2"
+          "title": "Açlık Oyunları: Kuşların ve Yılanların Şarkısı",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/90/df/94/90df944e-b9ed-b921-1e78-8de9f10f2018/LK_010741_tr-WW-artwork.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/tr/movie/a%C3%A7l%C4%B1k-oyunlar%C4%B1-ku%C5%9Flar%C4%B1n-ve-y%C4%B1lanlar%C4%B1n-%C5%9Fark%C4%B1s%C4%B1/id1755675218?uo=2"
         },
         {
-          "title": "Star Wars: The Mandalorian and Grogu",
-          "artist": "Jon Favreau",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/60/18/95/601895e2-89fc-8304-9cd9-d7e33b134aa0/DIS_MANDALORIAN_AND_GROGU_TR_ITUNES_TR_ARTWORK_TR_2000x3000_5G47MS0000099T.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/tr/movie/star-wars-the-mandalorian-and-grogu/id6785084381?uo=2"
+          "title": "The Hunger Games: Catching Fire",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b7/fa/b4/b7fab4fd-df09-ae6d-dd7e-5f09fb6449f1/9382463217168_TR.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/tr/movie/the-hunger-games-catching-fire/id741296001?uo=2"
         },
         {
-          "title": "The Devil Wears Prada 2",
-          "artist": "David Frankel",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/33/f3/ad/33f3ad70-a008-c28e-2d04-c8906892efbb/FOX_DEVIL_WEARS_PRADA_2_TH_ITUNES_TR_ARTWORK_TR_2000x3000_5EFE6T00000MAA.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/tr/movie/the-devil-wears-prada-2/id1896801524?uo=2"
+          "title": "Toy Story 5",
+          "artist": "Andrew Stanton",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/08/b7/a7/08b7a70d-a50e-c2f4-2963-414d470f6bca/DIS_TOY_STORY_5_TH_ITUNES_TR_ARTWORK_TR_2000x3000_5H9HF800000X0I.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/tr/movie/toy-story-5/id6792250839?uo=2"
         }
       ],
       "books": [
@@ -2003,37 +2003,43 @@
       ],
       "songs": [
         {
-          "title": "Asef",
-          "artist": "Tamer Ashour",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1e/cd/a11ecd2f-ee9c-16f9-b38d-e760b43afc2a/619165335423.jpg/170x170bb.png",
-          "link": "https://music.apple.com/eg/album/asef/6792757012?i=6792757018&uo=2"
+          "title": "Nano",
+          "artist": "TUL8TE & Saint Levant",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/e4/8f/e9e48fb1-33f2-487f-3eca-433ba3e8b0ca/cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/eg/album/nano/6771043145?i=6771043152&uo=2"
         },
         {
-          "title": "Inner Light",
-          "artist": "Elderbrook & Bob Moses",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/47/34/b6/4734b680-a825-4a4f-5233-838b51f16dcd/190296543906.jpg/170x170bb.png",
-          "link": "https://music.apple.com/eg/album/inner-light/1575388820?i=1575388827&uo=2"
+          "title": "Bejeweled",
+          "artist": "Taylor Swift",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8b/59/4b/8b594b75-5a1a-9a39-e003-b227d09d5b37/22UM1IM07364.rgb.jpg/170x170bb.png",
+          "link": "https://music.apple.com/eg/album/bejeweled/1645937456?i=1645938109&uo=2"
         },
         {
-          "title": "Dreamers (Music from the FiFA World Cup Qatar 2022 Official Soundtrack)",
-          "artist": "Jung Kook & BTS",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/c2/c0/03c2c0d5-bb76-e143-847f-52ff6c4c808f/197089992972.png/170x170bb.png",
-          "link": "https://music.apple.com/eg/album/dreamers-music-from-the-fifa-world-cup-qatar-2022/1655441867?i=1655441868&uo=2"
+          "title": "Fallou",
+          "artist": "Abeer Nehme",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/55/7a/9d557aab-e96e-6d23-aeab-9c0c5158a062/21UMGIM00884.rgb.jpg/170x170bb.png",
+          "link": "https://music.apple.com/eg/album/fallou/1551281638?i=1551281744&uo=2"
         },
         {
-          "title": "يا حبيبنا | ريدبُل مزيكا صالونات",
-          "artist": "Red Bull Sika, Hakim, Houda Bondok & Ahmed Tarek Yehia",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/ed/7e/b7ed7e10-b16d-4799-3232-458cd81bafbf/759009835259.jpg/170x170bb.png",
-          "link": "https://music.apple.com/eg/album/%D9%8A%D8%A7-%D8%AD%D8%A8%D9%8A%D8%A8%D9%86%D8%A7-%D8%B1%D9%8A%D8%AF%D8%A8-%D9%84-%D9%85%D8%B2%D9%8A%D9%83%D8%A7-%D8%B5%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA/6803568777?i=6803568785&uo=2"
+          "title": "I Want You (SUNOO Ver.)",
+          "artist": "ENHYPEN",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/dd/fc/99ddfc84-e7b1-965b-9170-f62a1a49a517/823375577010_Cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/eg/album/i-want-you-sunoo-ver/6835826810?i=6835826817&uo=2"
         },
         {
-          "title": "ELA MANA",
-          "artist": "Yüksel Baltacı",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/09/87/45098796-13e8-248f-7699-d5daa6c4405a/cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/eg/album/ela-mana/1857724037?i=1857724055&uo=2"
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/eg/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "The Odyssey (2026)",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b8/c2/e2/b8c2e2e6-6e6a-fcfb-0c90-8ad1064222df/tns.emmkeaqb.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/eg/movie/the-odyssey-2026/id6833346572?uo=2"
+        },
         {
           "title": "Spider-Man: Brand New Day",
           "artist": "Destin Daniel Cretton",
@@ -2041,22 +2047,16 @@
           "link": "https://itunes.apple.com/eg/movie/spider-man-brand-new-day/id6815640325?uo=2"
         },
         {
+          "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/3b/dc/8b/3bdc8b2d-4b22-c1bb-9e77-65f142795beb/Artwork_2000X3000.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/eg/movie/the-hunger-games-the-ballad-of-songbirds-snakes/id1721802678?uo=2"
+        },
+        {
           "title": "Heart of the Beast",
           "artist": "David Ayer",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/44/78/5e/44785e46-ffc3-25ff-065e-dae23d0e1af8/Heart_of_the_Beast_US_2000x3000.jpg/115x170bb.png",
           "link": "https://itunes.apple.com/eg/movie/heart-of-the-beast/id6815781125?uo=2"
-        },
-        {
-          "title": "The End of Oak Street",
-          "artist": "David Robert Mitchell",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/115x170bb.png",
-          "link": "https://itunes.apple.com/eg/movie/the-end-of-oak-street/id6788867495?uo=2"
-        },
-        {
-          "title": "Obsession (2026)",
-          "artist": "Curry Barker",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/85/2e/2b/852e2be7-0f7a-a2fe-14e4-ab700ef790e1/OBS_UIG_Digital_Keyart_APP_2000x3000_INTL_ENG_XYi.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/eg/movie/obsession-2026/id6790579630?uo=2"
         },
         {
           "title": "Dune",
@@ -2115,19 +2115,19 @@
       "radioName": "CapeTalk 567 AM",
       "articles": [
         {
-          "title": "WHO MADE 2026?: Heroes, villains and moegoes: nominate your People of the Year 2026",
-          "link": "https://www.dailymaverick.co.za/article/2026-11-14-heroes-villains-and-moegoes-nominate-your-people-of-the-year-2026/",
-          "desc": "Help us choose who makes the shortlists for Daily Maverick’s People of the Year. Nominate in as many of our 13 categories as you like before 20 November...."
+          "title": "BEATEN AGAIN: Ireland inflict fourth defeat of the season on one-dimensional Springboks",
+          "link": "https://www.dailymaverick.co.za/article/2026-11-21-ireland-inflict-fourth-defeat-of-the-season-on-one-dimensional-springboks/",
+          "desc": "Despite defeat, the Boks are into the Nations Championship final by virtue of the one log point they earned for losing by fewer than seven points. Ireland beat the Springboks 20-17 (halftime 17-10) in Dublin on Saturday...."
         },
         {
-          "title": "PARTY RESET OP-ED: The ANC’s liberation history cannot substitute for effective governance",
-          "link": "https://www.dailymaverick.co.za/article/2026-11-14-the-ancs-liberation-history-cannot-substitute-for-effective-governance/",
-          "desc": "The ANC’s electoral decline to 31% in the 2026 local government elections is because of a leadership crisis that relies on liberation history rather than effective governance...."
+          "title": "THE CONVERSATION: Using honeytraps for advantage is a strategy that goes back centuries",
+          "link": "https://www.dailymaverick.co.za/article/2026-11-21-using-honeytraps-for-advantage-is-a-strategy-that-goes-back-centuries/",
+          "desc": "Ancient Chinese texts tell of women being sent to rulers to make them lose sight of threats. This makes the case of Nvidia CEO and the ‘spy’ plausible at least...."
         },
         {
-          "title": "The season is now — Time to enact family-law reform",
-          "link": "https://www.dailymaverick.co.za/opinionista/2026-11-14-the-season-is-now-time-to-enact-family-law-reform/",
-          "desc": "Parliamentary terms end. Families’ needs do not. After decades of proposals, consultation and litigation, South Africa has another opportunity to protect the relationships in which people actually live. This time, reform must make it beyond the promise...."
+          "title": "Neville Alexander’s legacy can’t be honoured by policing who may speak in his name",
+          "link": "https://www.dailymaverick.co.za/opinionista/2026-11-21-neville-alexanders-legacy-cant-be-honoured-by-policing-who-may-speak-in-his-name/",
+          "desc": "There was controversy when it was announced that former finance minister Trevor Manuel would deliver the annual Neville Alexander Lecture. Manuel’s pro-market policies and race-based redress was opposed to Alexander’s anti-capitalist stance. However to honour Alexander’s intellec..."
         }
       ],
       "songs": [
@@ -2138,31 +2138,37 @@
           "link": "https://music.apple.com/za/album/nayvees-prayer/6813137378?i=6813137805&uo=2"
         },
         {
+          "title": "Movin' To The Sun",
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/170x170bb.png",
+          "link": "https://music.apple.com/za/album/movin-to-the-sun/6769069923?i=6769070199&uo=2"
+        },
+        {
           "title": "Ubaba wakho (feat. Naledi Aphiwe)",
           "artist": "Mzukulu",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/57/1a/d6571a4b-a5b4-f12d-79d6-8b5923e307ec/artwork.jpg/170x170bb.png",
           "link": "https://music.apple.com/za/album/ubaba-wakho-feat-naledi-aphiwe/6833972914?i=6833972915&uo=2"
         },
         {
-          "title": "Sorry Batswadi Baka (feat. Sia_TheBee, BeeKayrsa28, Key Tech, Zela Force, Terra Fontain & Tyler ICU)",
-          "artist": "DJ Maphorisa, Xduppy, Focalistic & Optimist Music ZA",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/a8/8f/e4a88f03-ea50-7d43-ffbf-73ac6b270fb6/196874993231.jpg/170x170bb.png",
-          "link": "https://music.apple.com/za/album/sorry-batswadi-baka-feat-sia-thebee-beekayrsa28-key/6833867011?i=6833867238&uo=2"
+          "title": "Ngicheme Udede",
+          "artist": "Khuzani",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/e3/ac/50e3ac15-d63a-a97e-cd52-b2f72a592a24/26UM1IM48251.rgb.jpg/170x170bb.png",
+          "link": "https://music.apple.com/za/album/ngicheme-udede/6835446768?i=6835446777&uo=2"
         },
         {
-          "title": "Myeke (feat. Sne Ntuli)",
-          "artist": "MSHINWEMALI",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/2a/9e/ea2a9e12-fcac-28d4-fdea-484e9dc5cccf/1200220245512.jpg/170x170bb.png",
-          "link": "https://music.apple.com/za/album/myeke-feat-sne-ntuli/6820110365?i=6820110376&uo=2"
-        },
-        {
-          "title": "BETHII BETHII (feat. Anathii Deejay & FROSTIYANO)",
-          "artist": "Bello B & Dladla Mshunqisi",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/1c/32/fd1c32df-38a4-e684-07a2-ead5587f8615/6009553476199_Cover.jpg/170x170bb.png",
-          "link": "https://music.apple.com/za/album/bethii-bethii-feat-anathii-deejay-frostiyano/6818147215?i=6818147532&uo=2"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/170x170bb.png",
+          "link": "https://music.apple.com/za/album/choosin-texas/1844932149?i=1844932150&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "The Odyssey (2026)",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/79/d5/38/79d5387b-fe43-2407-43d9-58dec05595f0/UNI_ODYSSEY_THE_TH_ITUNES_INTL_EPO_ARTWORK_WW_ARTWORK_EN_2000x3000_5LMHTJ00000A3X.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/za/movie/the-odyssey-2026/id6822007631?uo=2"
+        },
         {
           "title": "Spider-Man: Brand New Day",
           "artist": "Destin Daniel Cretton",
@@ -2170,28 +2176,22 @@
           "link": "https://itunes.apple.com/za/movie/spider-man-brand-new-day/id6793590242?uo=2"
         },
         {
-          "title": "Resident Evil (2026)",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/za/movie/resident-evil-2026/id6807575287?uo=2"
-        },
-        {
-          "title": "Mutiny",
-          "artist": "Jean-François Richet",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b7/96/d5/b796d512-b7e6-2b92-5d12-e71333818136/LK_012742_za-WW-artwork.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/za/movie/mutiny/id6809795131?uo=2"
-        },
-        {
-          "title": "The End of Oak Street",
-          "artist": "David Robert Mitchell",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/115x170bb.png",
-          "link": "https://itunes.apple.com/za/movie/the-end-of-oak-street/id6788867495?uo=2"
-        },
-        {
           "title": "The Hunger Games",
           "artist": "Gary Ross",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/14/dd/b5/14ddb5cb-a98f-b35b-c032-342827bdefce/HungerGamesThe_iTunes_Transactional-Movies-Cover.jpg/115x170bb.png",
           "link": "https://itunes.apple.com/za/movie/the-hunger-games/id521035514?uo=2"
+        },
+        {
+          "title": "The Hunger Games: Catching Fire",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f2/dd/40/f2dd40ef-21a2-c66e-9008-549e6daca0bf/THG_CatchingFire_iTunes_Transactional-Movies-Cover.png/115x170bb.png",
+          "link": "https://itunes.apple.com/za/movie/the-hunger-games-catching-fire/id741296001?uo=2"
+        },
+        {
+          "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+          "artist": "Francis Lawrence",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d3/ba/16/d3ba1629-e376-59cd-fcca-60876224923a/THG_BSS_iTunes_Transactional-Movies-Cover.png/115x170bb.png",
+          "link": "https://itunes.apple.com/za/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes/id1715087295?uo=2"
         }
       ],
       "books": [
@@ -2244,19 +2244,19 @@
       "radioName": "ABC Triple J",
       "articles": [
         {
-          "title": "Swimming stars tipped for big 2027 despite illness, injury hiccups",
-          "link": "https://www.abc.net.au/news/2026-11-15/swim-gp-absentees-will-be-back-for-la28/107387120",
-          "desc": "Olympic swimming gold medallists Kaylee McKeown, Mollie O'Callaghan and Kyle Chalmers have had their struggles, two years out from the LA Games...."
+          "title": "Dawn Fraser fired up for 1956 Melbourne Olympics reunion",
+          "link": "https://www.abc.net.au/news/2026-11-22/dawn-fraser-to-attend-1956-melbourne-olympics-70th-anniversary/107413872",
+          "desc": "Swimming legend Dawn Fraser will join a big Olympic gathering at the MCG to celebrate today's 70th anniversary of the Melbourne Games...."
         },
         {
-          "title": "Carpenter leads Chelsea to victory against Manchester City",
-          "link": "https://www.abc.net.au/news/2026-11-15/ellie-carpenter-helps-chelsea-get-win-over-mary-fowler-man-city/107387146",
-          "desc": "Chelsea have gone top of the WSL with the help of another fine contribution from Ellie Carpenter, who got one over her fellow Matilda, Man City's Mary Fowler...."
+          "title": "Alcaraz digs deep to beat Shelton and reach ATP Finals decider",
+          "link": "https://www.abc.net.au/news/2026-11-22/alcaraz-digs-deep-to-beat-shelton-and-reach-atp-finals-decider/107413742",
+          "desc": "Carlos Alcaraz reaches the decider of the ATP Finals for the second straight year, but he is made to work by American Ben Shelton before prevailing in three sets...."
         },
         {
-          "title": "All Blacks suffer 73-year first in defeat to Wales",
-          "link": "https://www.abc.net.au/news/2026-11-15/all-blacks-beaten-by-wales-for-first-time-in-73-years/107387094",
-          "desc": "Wales have pulled off one of the greatest wins in their recent history, beating the All Blacks for the first time in 73 years in a Nations Championship boilover...."
+          "title": "England thrash All Blacks after Moody faces haka with team",
+          "link": "https://www.abc.net.au/news/2026-11-22/england-beat-nz-all-blacks-former-skipper-lewis-moody-haka-mnd/107413688",
+          "desc": "Emotional scenes at Twickenham, as England thrashes the All Blacks after former skipper Lewis Moody — who has Motor Neurone Disease — joins the team to face the haka...."
         }
       ],
       "songs": [
@@ -2267,31 +2267,37 @@
           "link": "https://music.apple.com/au/album/babydoll/6794168372?i=6794168373&uo=2"
         },
         {
-          "title": "Movin' To The Sun",
-          "artist": "HUGEL, Imael Angel & Ultra Naté",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/170x170bb.png",
-          "link": "https://music.apple.com/au/album/movin-to-the-sun/6769069923?i=6769070199&uo=2"
-        },
-        {
-          "title": "Stop The Wedding!",
-          "artist": "Ashe",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/170x170bb.png",
-          "link": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687&uo=2"
-        },
-        {
           "title": "Choosin' Texas",
           "artist": "Ella Langley",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/170x170bb.png",
           "link": "https://music.apple.com/au/album/choosin-texas/1844932149?i=1844932150&uo=2"
         },
         {
-          "title": "BAD TIMES",
-          "artist": "Imael Angel & Cali Bee",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/48/e5/0848e51a-c14d-1d5f-494e-871b561ed0f4/26UM1IM27351.rgb.jpg/170x170bb.png",
-          "link": "https://music.apple.com/au/album/bad-times/6824538587?i=6824538714&uo=2"
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/170x170bb.png",
+          "link": "https://music.apple.com/au/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=2"
+        },
+        {
+          "title": "Just A Woman",
+          "artist": "Lainey Wilson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/13/5d/92135d81-90ce-eed6-76ba-c9cc2d35f613/4099964306293.jpg/170x170bb.png",
+          "link": "https://music.apple.com/au/album/just-a-woman/6831322525?i=6831322526&uo=2"
+        },
+        {
+          "title": "Movin' To The Sun",
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/170x170bb.png",
+          "link": "https://music.apple.com/au/album/movin-to-the-sun/6769069923?i=6769070199&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "The Odyssey (2026)",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/79/d5/38/79d5387b-fe43-2407-43d9-58dec05595f0/UNI_ODYSSEY_THE_TH_ITUNES_INTL_EPO_ARTWORK_WW_ARTWORK_EN_2000x3000_5LMHTJ00000A3X.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/au/movie/the-odyssey-2026/id6822007631?uo=2"
+        },
         {
           "title": "Heart of the Beast",
           "artist": "David Ayer",
@@ -2299,10 +2305,10 @@
           "link": "https://itunes.apple.com/au/movie/heart-of-the-beast/id6812460052?uo=2"
         },
         {
-          "title": "The End of Oak Street",
-          "artist": "David Robert Mitchell",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/115x170bb.png",
-          "link": "https://itunes.apple.com/au/movie/the-end-of-oak-street/id6788867495?uo=2"
+          "title": "Verity",
+          "artist": "Michael Showalter",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/au/movie/verity/id6808034868?uo=2"
         },
         {
           "title": "Spider-Man: Brand New Day",
@@ -2311,16 +2317,10 @@
           "link": "https://itunes.apple.com/au/movie/spider-man-brand-new-day/id6793590242?uo=2"
         },
         {
-          "title": "Resident Evil (2026)",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c0/a3/5b/c0a35b3c-3b5d-3f9b-6824-2c99c7190b79/DP_10618991_RESIDENTEVIL2026_2000x3000_CITYKeyArt.png/115x170bb.png",
-          "link": "https://itunes.apple.com/au/movie/resident-evil-2026/id6807575287?uo=2"
-        },
-        {
-          "title": "Other Mommy",
-          "artist": "Rob Savage",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/95/14/07/95140764-b42d-9694-a6d1-555face2d163/OtherMommy_Digital_Keyart_APP_NOCN_2000x3000_INTL_ENG_XYi.jpg/115x170bb.png",
-          "link": "https://itunes.apple.com/au/movie/other-mommy/id6817115489?uo=2"
+          "title": "The End of Oak Street",
+          "artist": "David Robert Mitchell",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/115x170bb.png",
+          "link": "https://itunes.apple.com/au/movie/the-end-of-oak-street/id6788867495?uo=2"
         }
       ],
       "books": [
@@ -2380,10 +2380,10 @@
       ],
       "songs": [
         {
-          "title": "Fairytale of New York",
-          "artist": "Hozier & Jessie Buckley",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/47/4b/1b474b56-a830-4d80-a3ee-61291964567c/8721416643453.png/170x170bb.png",
-          "link": "https://music.apple.com/nz/album/fairytale-of-new-york/6815087143?i=6815087144&uo=2"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/170x170bb.png",
+          "link": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150&uo=2"
         },
         {
           "title": "Babydoll",
@@ -2398,24 +2398,36 @@
           "link": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687&uo=2"
         },
         {
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/170x170bb.png",
-          "link": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150&uo=2"
+          "title": "Just A Woman",
+          "artist": "Lainey Wilson",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/13/5d/92135d81-90ce-eed6-76ba-c9cc2d35f613/4099964306293.jpg/170x170bb.png",
+          "link": "https://music.apple.com/nz/album/just-a-woman/6831322525?i=6831322526&uo=2"
         },
         {
-          "title": "Movin' To The Sun",
-          "artist": "HUGEL, Imael Angel & Ultra Naté",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/170x170bb.png",
-          "link": "https://music.apple.com/nz/album/movin-to-the-sun/6769069923?i=6769070199&uo=2"
+          "title": "Rise Slow",
+          "artist": "Kimo Sounds",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/170x170bb.png",
+          "link": "https://music.apple.com/nz/album/rise-slow/6789752111?i=6789752112&uo=2"
         }
       ],
       "movies": [
+        {
+          "title": "The Odyssey (2026)",
+          "artist": "Christopher Nolan",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/79/d5/38/79d5387b-fe43-2407-43d9-58dec05595f0/UNI_ODYSSEY_THE_TH_ITUNES_INTL_EPO_ARTWORK_WW_ARTWORK_EN_2000x3000_5LMHTJ00000A3X.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/nz/movie/the-odyssey-2026/id6822007631?uo=2"
+        },
         {
           "title": "Heart of the Beast",
           "artist": "David Ayer",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/27/10/b1271002-3bc3-d83d-8aae-46a60e89688f/Heart_of_the_Beast_US_2000x3000.jpg/115x170bb.png",
           "link": "https://itunes.apple.com/nz/movie/heart-of-the-beast/id6812460052?uo=2"
+        },
+        {
+          "title": "Verity",
+          "artist": "Michael Showalter",
+          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png",
+          "link": "https://itunes.apple.com/nz/movie/verity/id6808034868?uo=2"
         },
         {
           "title": "The End of Oak Street",
@@ -2428,18 +2440,6 @@
           "artist": "Destin Daniel Cretton",
           "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/115x170bb.png",
           "link": "https://itunes.apple.com/nz/movie/spider-man-brand-new-day/id6793590242?uo=2"
-        },
-        {
-          "title": "Resident Evil (2026)",
-          "artist": "Zach Cregger",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c0/a3/5b/c0a35b3c-3b5d-3f9b-6824-2c99c7190b79/DP_10618991_RESIDENTEVIL2026_2000x3000_CITYKeyArt.png/115x170bb.png",
-          "link": "https://itunes.apple.com/nz/movie/resident-evil-2026/id6807575287?uo=2"
-        },
-        {
-          "title": "The Invite",
-          "artist": "Olivia Wilde",
-          "img": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/5f/e8/6f/5fe86f8e-548f-60bd-409d-53adde25c0f7/TheInvite_Poster_LSR_2000x3000-srgb.lsr/115x170bb.png",
-          "link": "https://itunes.apple.com/nz/movie/the-invite/id6783047429?uo=2"
         }
       ],
       "books": [
